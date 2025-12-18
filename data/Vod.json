@@ -1,0 +1,202 @@
+[
+  {
+    "videoId": "Zegz5tC3-2o",
+    "title": "【歌枠】歌わせていただきます/Singing【天音かなた/ホロライブ】",
+    "date": "12/04/2025",
+    "artist": "Amane Kanata",
+    "videoUrl": "https://www.youtube.com/watch?v=Zegz5tC3-2o",
+    "isLivestream": true,
+    "songs": [
+      {
+        "title": "人生は夢だらけ [Jinsei wa yume-darake]",
+        "artist": "Shiina Ringo",
+        "start": "06:30",
+        "originalUrl": "https://www.youtube.com/watch?v=GDnLHd2Ei3Y",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "桃色片想い [Momoiro Kataomoi]",
+        "artist": "Aya Matsuura",
+        "start": "11:32",
+        "originalUrl": "https://www.youtube.com/watch?v=IIj6RlHtS9w",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "泡沫サタデーナイト！ [Utakata Saturday Night!]",
+        "artist": "Morning Musume ‘16",
+        "start": "24:06",
+        "originalUrl": "https://www.youtube.com/watch?v=IiV-aaLo9SM",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "怪獣 [Kaijuu]",
+        "artist": "Sakanaction",
+        "start": "30:56",
+        "originalUrl": "https://www.youtube.com/watch?v=a8dgNdJVluc",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "天城越え [Amagi Goe]",
+        "artist": "Sayuri Ishikawa",
+        "start": "37:50",
+        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "キラメキライダー☆ [Kirameki Rider]",
+        "artist": "hololive IDOL PROJECT",
+        "start": "47:13",
+        "originalUrl": "https://www.youtube.com/watch?v=vE4L1IWLeag",  
+        "tags": ["cover", "Karaoke"]
+      }
+    ]
+  },
+
+  {
+    "videoId": "KJ1od86OezM",
+    "title": "【2時間】夏ソングメイン歌枠/Summer song singing【天音かなた/ホロライブ】",
+    "date": "07/17/2025",
+    "artist": "Amane Kanata",
+    "videoUrl": "https://www.youtube.com/live/KJ1od86OezM",
+    "isLivestream": true,
+    "songs": [
+      {
+        "title": "ミュージックアワー [Music Hour]",
+        "artist": "Porno Graffti",
+        "start": "09:12",
+        "originalUrl": "https://www.youtube.com/watch?v=GDnLHd2Ei3Y",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "女々しくて [Memeshikute]",
+        "artist": "Golden Bomber",
+        "start": "16:13",
+        "originalUrl": "https://www.youtube.com/watch?v=IIj6RlHtS9w",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "君の知らない物語 [Kimi no Shiranai Monogatari]",
+        "artist": "Supercell",
+        "start": "24:28",
+        "originalUrl": "https://www.youtube.com/watch?v=IiV-aaLo9SM",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "イジワルしないで 抱きしめてよ [Ijiwarushinai de Dakishimete yo]",
+        "artist": "Juice=Juice",
+        "start": "35:03",
+        "originalUrl": "https://www.youtube.com/watch?v=a8dgNdJVluc",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "花火 [Hanabi]",
+        "artist": "Aiko",
+        "start": "41:09",
+        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "エンゼルフィッシュ [Angelfish]",
+        "artist": "Patirchev",
+        "start": "49:00",
+        "originalUrl": "https://www.youtube.com/watch?v=vE4L1IWLeag",  
+        "tags": ["cover", "Karaoke"]
+      },
+
+      {
+        "title": "踊 [Odo]",
+        "artist": "Ado",
+        "start": "56:45",
+        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "ロマンスの途中 [Romance no Tochū]",
+        "artist": "Juice=Juice",
+        "start": "62:50",
+        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
+        "tags": ["cover", "Karaoke"]
+      },
+      {
+        "title": "少女レイ [Shojo Rei]",
+        "artist": "MikitoP",
+        "start": "72:05",
+        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
+        "tags": ["cover", "Karaoke"]
+      }
+    ] 
+  },
+
+  {
+    "videoId": "wvtP9tUr_S4",
+    "title": "セルフサービス / 天音かなた(official)",
+    "date": "05/31/2025",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=wvtP9tUr_S4",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "セルフサービス [Self Service] / 天音かなた(official)",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=wvtP9tUr_S4",
+        "tags": ["original", "Trigger"]
+      }
+    ]
+  },
+
+  {
+    "videoId": "Ohf-kbf6cR4",
+    "title": "Last-resort / 天音かなた(official)",
+    "date": "07/23/2025",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=Ohf-kbf6cR4",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "Last-resort / 天音かなた(official)",
+        "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=Ohf-kbf6cR4",
+        "tags": ["original", "Trigger"]
+      }
+    ]
+  },
+
+    {
+    "videoId": "7XqOWIiGFeM",
+    "title": "天使のagape (UnknownDIVA ver.)",
+    "date": "03/12/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=7XqOWIiGFeM",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "天使のagape (UnknownDIVA ver.)",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=7XqOWIiGFeM",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },
+
+
+  {
+    "videoId": "EbWme7sDqgU",
+    "title": "メズマライザー [Mesmerizer] / 天音かなた×湊あくあ(cover)",
+    "date": "09/04/2024",
+    "artist": ["Amane Kanata", "Minato Aqua"],
+    "videoUrl": "https://www.youtube.com/watch?v=EbWme7sDqgU",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "メズマライザー [Mesmerizer] / 天音かなた×湊あくあ(cover)",
+        "artist": ["Amane Kanata", "Minato Aqua"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=EbWme7sDqgU",
+        "tags": ["cover", "collab"]
+      }
+    ]
+  }
+]

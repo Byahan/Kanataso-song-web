@@ -1,0 +1,235 @@
+import { JSX, useEffect, useState } from "react";
+
+interface MenubarProps {
+  open: boolean;
+  onClose: () => void;
+}
+
+export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
+  const [showAbout, setShowAbout] = useState(false);
+
+  // Close on ESC
+  useEffect(() => {
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        setShowAbout(false);
+        onClose();
+      }
+    };
+    if (open || showAbout) window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [open, showAbout, onClose]);
+
+  const closeAll = () => {
+    setShowAbout(false);
+    onClose();
+  };
+
+  return (
+    <>
+      {/* BACKDROP */}
+      <div
+        className={`backdrop ${(open || showAbout) ? "show" : ""}`}
+        onClick={closeAll}
+        aria-hidden={!(open || showAbout)}
+      />
+
+      {/* DRAWER */}
+      <aside className={`drawer ${open ? "open" : ""}`} aria-hidden={!open}>
+        <div className="header">
+          <span>Menu</span>
+          <button onClick={onClose} aria-label="Close menu">✕</button>
+        </div>
+
+        <nav className="menu">
+          <button
+            className="menuBtn"
+            onClick={() => setShowAbout(true)}
+            type="button"
+          >
+            About
+          </button>
+
+          <a
+            href="https://www.youtube.com/@AmaneKanata"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="menuBtn linkBtn"
+          >
+            Amane Kanata YouTube Channel
+          </a>
+        </nav>
+      </aside>
+
+      {/* ABOUT MODAL */}
+      {showAbout && (
+        <div className="modal">
+          <div className="modalHeader">
+            <h3>About</h3>
+            <button onClick={() => setShowAbout(false)}>✕</button>
+          </div>
+
+          <p className="modalText">
+            This website is a fan-made archive dedicated to Amane Kanata.
+            This Website works as long Kanata doesn't archive her stream/MV. 
+
+            Credits: Byahan / rayhan_f (discord)
+          </p>
+
+          <a
+            href="https://www.youtube.com/@AmaneKanata"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="ytButton"
+          >
+            Visit Amane Kanata YouTube Channel
+          </a>
+        </div>
+      )}
+
+      <style jsx>{`
+        /* BACKDROP */
+        .backdrop {
+          position: fixed;
+          inset: 0;
+          background: rgba(0, 0, 0, 0.35);
+          opacity: 0;
+          pointer-events: none;
+          transition: opacity 240ms ease;
+          z-index: 1000;
+        }
+        .backdrop.show {
+          opacity: 1;
+          pointer-events: auto;
+        }
+
+        /* DRAWER */
+        .drawer {
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 320px;
+          height: 100vh;
+          background: linear-gradient(360deg, #D7D7D7 0%, #7EBAFF 100%);
+          transform: translateX(-105%);
+          transition: transform 280ms cubic-bezier(0.2, 0.8, 0.2, 1);
+          z-index: 1001;
+          display: flex;
+          flex-direction: column;
+          box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
+        }
+        .drawer.open {
+          transform: translateX(0);
+        }
+
+        .header {
+          padding: 16px;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          font-weight: 600;
+        }
+        .header button {
+          border: none;
+          background: none;
+          font-size: 20px;
+          cursor: pointer;
+        }
+
+        .menu {
+          padding: 0 16px 16px;
+          display: flex;
+          flex-direction: column;
+          gap: 12px;
+        }
+        .menu a {
+          cursor: pointer;
+          padding: 10px 12px;
+          border-radius: 10px;
+        }
+        .menu a.active {
+          background: #FFD966;
+          color: #fff;
+          font-weight: 600;
+        }
+
+        .menuBtn:hover {
+          filter: brightness(0.9);
+        }
+
+        .menuBtn {
+          width: 100%;
+          padding: 12px 14px;
+          border-radius: 12px;
+          border: none;
+          background: #ffd966;
+          color: #000;
+          font-weight: 600;
+          font-size: 14px;
+          text-align: left;
+          cursor: pointer;
+          transition: background 160ms ease, filter 160ms ease;
+        }
+
+        /* MODAL */
+        .modal {
+          position: fixed;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          width: 90%;
+          max-width: 420px;
+          background: #fff;
+          border-radius: 14px;
+          padding: 20px;
+          z-index: 1002;
+          box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+        }
+
+        .modalHeader {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 12px;
+        }
+
+        .modalHeader h3 {
+          margin: 0;
+          font-size: 18px;
+        }
+
+        .modalHeader button {
+          border: none;
+          background: none;
+          font-size: 18px;
+          cursor: pointer;
+        }
+
+        .modalText {
+          font-size: 14px;
+          line-height: 1.6;
+          margin-bottom: 16px;
+        }
+
+        .ytButton {
+          display: block;
+          text-align: center;
+          padding: 10px 14px;
+          border-radius: 10px;
+          background: #ff3b3b;
+          color: #fff;
+          font-weight: 600;
+          text-decoration: none;
+        }
+        .ytButton:hover {
+          background: #e63232;
+        }
+
+        .linkBtn {
+          text-decoration: none;
+          display: block;
+        }
+      `}</style>
+    </>
+  );
+}

@@ -1,6 +1,6 @@
 "use client";
 
-import { JSX, useEffect, useMemo, useState } from "react";
+import { JSX, useEffect, useMemo, useState, } from "react";
 import Navbar from "../components/navbar";
 import Player from "../components/player";
 import SongList from "../components/songList";
@@ -8,6 +8,7 @@ import PlayerDescription from "../components/playerdescription";
 import vodData from "../data/Vod.json";
 import { Song, VOD } from "../types/song";
 import { useRef } from "react";
+
 
 /* helpers */
 function toSeconds(t: string): number {
@@ -475,6 +476,47 @@ export default function Home(): JSX.Element {
         .filter-menu div:hover {
           background: rgba(255, 255, 255, 0.4);
         }
+
+      @media (max-width: 768px) {
+        .layout {
+          grid-template-columns: 1fr;
+          gap: 16px;
+        }
+
+        .left {
+          padding: 12px;
+        }
+
+        .right {
+          padding: 12px;
+          border-left: none;
+          max-height: none;
+          display: flex;
+          flex-direction: column;
+        }
+
+        /* ✅ SongList scroll container */
+        .right-content {
+          flex: 1;
+          max-height: 55vh;
+          overflow-y: auto;
+          -webkit-overflow-scrolling: touch;
+        }
+
+        .right-header {
+          flex-shrink: 0;
+        }
+
+        .control-row {
+          flex-direction: column;
+          align-items: stretch;
+        }
+
+        .filter-btn,
+        .random-btn {
+          width: 100%;
+        }
+      }
       `}</style>
     </>
   );

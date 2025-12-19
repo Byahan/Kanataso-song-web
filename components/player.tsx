@@ -1,17 +1,16 @@
-import { JSX, useEffect, useMemo, useRef } from "react";
+"use client";
+
+import { JSX, useMemo } from "react";
 
 interface PlayerProps {
   videoId: string;
-  start: number; 
+  start: number;
 }
 
 export default function Player({
   videoId,
   start,
 }: PlayerProps): JSX.Element {
-  const iframeRef = useRef<HTMLIFrameElement | null>(null);
-
-  // Keep your existing “don’t restart MV” behavior
   const iframeKey = useMemo(() => {
     return start > 0 ? `${videoId}-${start}` : videoId;
   }, [videoId, start]);
@@ -20,10 +19,13 @@ export default function Player({
     const params = new URLSearchParams({
       autoplay: "1",
       rel: "0",
-      enablejsapi: "1",
+      modestbranding: "1",
+      playsinline: "1",
     });
 
-    if (start > 0) params.set("start", String(start));
+    if (start > 0) {
+      params.set("start", String(start));
+    }
 
     return `https://www.youtube.com/embed/${videoId}?${params.toString()}`;
   }, [videoId, start]);
@@ -31,12 +33,11 @@ export default function Player({
   return (
     <div className="player">
       <iframe
-        ref={iframeRef}
         key={iframeKey}
         src={src}
         title="YouTube player"
         frameBorder="0"
-        allow="autoplay; encrypted-media"
+        allow="autoplay; encrypted-media; picture-in-picture"
         allowFullScreen
       />
 
@@ -52,6 +53,7 @@ export default function Player({
         iframe {
           width: 100%;
           height: 100%;
+          border: 0;
         }
       `}</style>
     </div>

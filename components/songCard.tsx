@@ -13,7 +13,7 @@ const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
   cover: { bg: "#fbcfe8", color: "#831843" },
   collab: { bg: "#bbf7d0", color: "#065f46" },
 
-  "unknown diva": { bg: "#f59e0b", color: "#1f2937" },
+  "unknown diva": { bg: "#9437fdff", color: "#ffffffff" },
 };
 
 function getArtistClass(name: string): string {
@@ -240,6 +240,25 @@ export default function SongCard({
           color: #2563eb;
           margin: 0 6px;
         }
+
+        @media (max-width: 768px) {
+        .songCard {
+          padding: 10px;
+        }
+
+        .thumb {
+          width: 72px;
+          height: 54px;
+        }
+
+        .title {
+          font-size: 14px;
+        }
+
+        .artist {
+          font-size: 12px;
+        }
+      }
       `}</style>
     </button>
   );

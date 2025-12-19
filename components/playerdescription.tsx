@@ -406,6 +406,21 @@ export default function PlayerDescription({
       .seeMoreBtn:hover {
         text-decoration: underline;
       }
+
+      @media (max-width: 768px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .label {
+        font-size: 13px;
+      }
+
+      .value {
+        margin-bottom: 8px;
+      }
+    }
+
       `}</style>
     </div>
   );

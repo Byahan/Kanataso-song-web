@@ -23,7 +23,6 @@ export default function SongList({
   songs,
   vods,
   currentVodVideoId,
-  currentVodType,
   currentSongStart,
   onSelectSong,
 }: SongListProps) {

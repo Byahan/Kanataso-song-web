@@ -6,6 +6,7 @@ const ARTIST_COLOR_MAP: Record<string, string> = {
   "ayunda risu": "ayunda",
   "azki":"azki",
   "sakamata chloe":"chloe",
+  "sorahoshi kirame":"kirame",
   // add more later
 };
 
@@ -22,6 +23,7 @@ const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
   "unknown diva": { bg: "#9437fdff", color: "#ffffffff" },
   mv: { bg: "#b34dbeff", color: "#cffff1ff" },
   "3d": { bg: "#d8637cff", color: "#cffff1ff" },
+  shorts: { bg: "#fde68a", color: "#92400e" },
 };
 
 function normalizeTag(tag: string): string {
@@ -291,6 +293,12 @@ export default function PlayerDescription({
           background: #0a0808ff;
           color: #f71143ff;
         }
+          
+        .pill.kirame {
+          background: #818cf8;
+          color: #ffffff;
+        }
+
 
         .link {
           color: #0284c7;

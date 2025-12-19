@@ -32,3 +32,45 @@ body {
   background: linear-gradient(360deg, #D7D7D7 0%, #7EBAFF 100%);
   min-height: 100vh;
 }
+.introOverlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: backdrop-filter 0.8s ease, background 0.8s ease;
+}
+
+/* Exit state: blur clears */
+.introOverlay.exit {
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  background: rgba(0, 0, 0, 0);
+}
+
+.introLogo {
+  transform-origin: center;
+  animation: logoRotate 1.4s linear infinite;
+  transition: opacity 0.8s ease;
+}
+
+/* Logo fades out on exit */
+.introOverlay.exit .introLogo {
+  opacity: 0;
+}
+
+@keyframes logoRotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

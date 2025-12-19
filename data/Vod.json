@@ -278,7 +278,7 @@
        "artist": ["Amane Kanata"],
         "start": "00:00",
         "originalUrl": "https://www.youtube.com/watch?v=DMUOwv4ynps",
-        "tags": ["original", "Unknown DIVA"]
+        "tags": ["original"]
       }
     ]
   },
@@ -312,7 +312,7 @@
        "artist": ["Amane Kanata"],
         "start": "00:00",
         "originalUrl": "https://www.youtube.com/watch?v=wToRgQzYAA0",
-        "tags": ["original", "Unknown DIVA"]
+        "tags": ["original"]
       }
     ]
   },   
@@ -329,7 +329,7 @@
        "artist": ["Amane Kanata"],
         "start": "00:00",
         "originalUrl": "https://www.youtube.com/watch?v=zREufEpj0zM",
-        "tags": ["original", "Unknown DIVA", "MV"]
+        "tags": ["original", "MV"]
       }
     ]
   },   
@@ -346,7 +346,7 @@
        "artist": ["Amane Kanata"],
         "start": "00:00",
         "originalUrl": "https://www.youtube.com/watch?v=WJQveddc_Q4",
-        "tags": ["original", "Unknown DIVA"]
+        "tags": ["original"]
       }
     ]
   },       
@@ -666,7 +666,7 @@
         "originalartist":"Queen Bee",
         "start": "00:00",
         "originalUrl": "https://www.youtube.com/watch?v=Pb-n8O4C4To",
-        "tags": ["cover", "MV"]
+        "tags": ["cover", "3D"]
       }
     ]
   },
@@ -921,6 +921,7 @@
     "title": "【激アツ歌唱】革命デュアリズム - 天音かなた＆アユンダ・リス cover【hololive】",
     "date": "09/04/2024",
     "artist": ["Amane Kanata", "Ayunda Risu"],
+    "originalartist":["T.M.Revolution", "Nana Mizuki"],
     "videoUrl": "https://www.youtube.com/watch?v=mQxHUn9E-Ec",
     "isLivestream": false,
     "songs": [
@@ -931,6 +932,26 @@
         "start": "00:00",
         "originalUrl": "https://www.youtube.com/watch?v=mQxHUn9E-Ec",
         "tags": ["cover", "collab", "3D"]
+      }
+    ]
+  },
+
+  {
+    "videoId": "OC_kq1paZQY",
+    "title": "【おしお家】妹の空星きらめちゃんと「おこちゃま戦争」💥👊 #歌ってみた #shorts #ホロライブ #にじさんじ",
+    "date": "12/18/2025",
+    "artist": ["Amane Kanata", "Sorahoshi Kirame"],
+    "originalartist":["Giga"],
+    "videoUrl": "https://www.youtube.com/shorts/OC_kq1paZQY",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "【おしお家】妹の空星きらめちゃんと「おこちゃま戦争」[Okochama Sensou]",
+        "artist": ["Amane Kanata", "Sorahoshi Kirame"],
+        "originalartist":["Giga"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/shorts/OC_kq1paZQY",
+        "tags": ["cover", "shorts", "collab"]
       }
     ]
   }

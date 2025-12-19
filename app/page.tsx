@@ -20,7 +20,7 @@ function toDateValue(date: string): number {
   return new Date(date).getTime();
 }
 
-type SongFilter = "all" | "original" | "cover" | "collab" | "karaoke";
+type SongFilter = "all" | "original" | "cover" | "collab" | "karaoke" | "shorts";
 type VodType = "karaoke" | "mv";
 const getVodType = (vod: VOD): VodType => (vod.isLivestream ? "karaoke" : "mv");
 
@@ -260,6 +260,8 @@ export default function Home(): JSX.Element {
                   ? "Cover Song"
                   :songFilter === "karaoke"
                   ? "Karaoke Stream"
+                  :songFilter === "shorts"
+                  ? "Shorts Video"
                   : "Collab Song"}
                 <span className={`arrow ${filterOpen ? "open" : ""}`}>▼</span>
               </button>
@@ -305,6 +307,14 @@ export default function Home(): JSX.Element {
                     }}
                   >
                     Karaoke Stream
+                  </div>
+                   <div
+                    onClick={() => {
+                      setSongFilter("shorts");
+                      setFilterOpen(false);
+                    }}
+                  >
+                    Shorts Video
                   </div>
                 </div>
               )}

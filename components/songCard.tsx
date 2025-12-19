@@ -8,6 +8,7 @@ const ARTIST_COLOR_MAP: Record<string, string> = {
   "ayunda risu": "ayunda",
   "azki":"azki",
   "sakamata chloe":"chloe",
+  "sorahoshi kirame":"kirame",
 };
 
 const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
@@ -19,6 +20,7 @@ const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
   "holo*27": { bg: "#4ce659ff", color: "#cffff1ff" },
   "unknown diva": { bg: "#9437fdff", color: "#ffffffff" },
   "3d": { bg: "#d8637cff", color: "#cffff1ff" },
+  shorts: { bg: "#fde68a", color: "#92400e" },
   
 };
 
@@ -271,6 +273,11 @@ export default function SongCard({
         .pill.chloe {
           background: #0a0808ff;
           color: #f71143ff;
+        }
+
+        .pill.kirame {
+          background: #818cf8;
+          color: #ffffff;
         }
 
         .collabSymbol {

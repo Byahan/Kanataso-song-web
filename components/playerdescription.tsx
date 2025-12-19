@@ -3,6 +3,9 @@ import { JSX, useState } from "react";
 const ARTIST_COLOR_MAP: Record<string, string> = {
   "minato aqua": "aqua",
   "amane kanata": "kanata",
+  "ayunda risu": "ayunda",
+  "azki":"azki",
+  "sakamata chloe":"chloe",
   // add more later
 };
 
@@ -272,6 +275,21 @@ export default function PlayerDescription({
         .pill.kanata {
           background: #c7d2fe;
           color: #1e3a8a;
+        }
+
+        .pill.ayunda {
+          background: #ffdc6aff;
+          color: #2e3033ff;
+        }
+
+        .pill.azki {
+          background: #ff2c6fff;
+          color: #f7d1f2ff;
+        }
+
+        .pill.chloe {
+          background: #0a0808ff;
+          color: #f71143ff;
         }
 
         .link {

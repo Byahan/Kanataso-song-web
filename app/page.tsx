@@ -515,7 +515,6 @@ export default function Home(): JSX.Element {
           flex-direction: column;
         }
 
-        /* ✅ SongList scroll container */
         .right-content {
           flex: 1;
           max-height: 55vh;

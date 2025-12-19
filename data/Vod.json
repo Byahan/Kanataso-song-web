@@ -652,20 +652,20 @@
     ]
   },
     {
-    "videoId": "uBpAdYDupAs",
-    "title": "イガク / 天音かなた＋ユ！隊(cover)",
-    "date": "07/29/2024",
+    "videoId": "Pb-n8O4C4To",
+    "title": "【LIVE】メフィスト - 天音かなた cover【hololive】",
+    "date": "01/23/2024",
     "artist": ["Amane Kanata"],
-    "originalartist":"Sasuke Haraguchi",
-    "videoUrl": "https://www.youtube.com/watch?v=uBpAdYDupAs",
+    "originalartist":"Queen Bee",
+    "videoUrl": "https://www.youtube.com/watch?v=Pb-n8O4C4To",
     "isLivestream": false,
     "songs": [
       {
-        "title": "イガク [Igaku]",
+        "title": "メフィスト [Mephisto]",
         "artist": ["Amane Kanata"],
-        "originalartist":"Sasuke Haraguchi",
+        "originalartist":"Queen Bee",
         "start": "00:00",
-        "originalUrl": "https://www.youtube.com/watch?v=uBpAdYDupAs",
+        "originalUrl": "https://www.youtube.com/watch?v=Pb-n8O4C4To",
         "tags": ["cover", "MV"]
       }
     ]
@@ -863,7 +863,7 @@
     "videoId": "HGi00w1Be8g",
     "title": "【激ムズハモリ】勇者 - 天音かなた＆AZKi cover【hololive】",
     "date": "05/28/2024",
-    "artist": ["Amane Kanata", "Sakamata Chloe"],
+    "artist": ["Amane Kanata", "AZKi"],
     "originalartist":"DECO*27",
     "videoUrl": "https://www.youtube.com/watch?v=HGi00w1Be8g",
     "isLivestream": false,

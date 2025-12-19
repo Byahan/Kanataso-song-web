@@ -63,27 +63,34 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
 
       {/* ABOUT MODAL */}
       {showAbout && (
-        <div className="modal">
+        <div className="modalWrap">
+          <div className="modal foldIn">
           <div className="modalHeader">
             <h3>About</h3>
             <button onClick={() => setShowAbout(false)}>✕</button>
           </div>
 
-          <p className="modalText">
-            This website is a fan-made archive dedicated to Amane Kanata.
-            This Website works as long Kanata doesn't archive her stream/MV. 
+          <div className="modalText">
+            <p>This website is a fan-made archive dedicated to Amane Kanata.</p>
+            <p>
+              This website works as long Kanata doesn't archive her stream / MV.
+            </p>
+             <div className="divider" />
+            <p className="small">Last Updated: 12/19/2025 10:30 PM</p>
+            <p className="small">
+              Credits: Byahan / rayhan_f (discord), feel free to contact me if you have any
+              further questions/suggestions regarding this website
+            </p>
+          </div>
 
-            Credits: Byahan / rayhan_f (discord)
-          </p>
-
-          <a
-            href="https://www.youtube.com/@AmaneKanata"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="ytButton"
+          <button
+            type="button"
+            className="closeButton"
+            onClick={() => setShowAbout(false)}
           >
-            Visit Amane Kanata YouTube Channel
-          </a>
+            Close
+          </button>
+          </div>
         </div>
       )}
 
@@ -95,7 +102,7 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
           background: rgba(0, 0, 0, 0.35);
           opacity: 0;
           pointer-events: none;
-          transition: opacity 240ms ease;
+          transition: opacity 200ms ease-out;
           z-index: 1000;
         }
         .backdrop.show {
@@ -173,17 +180,49 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
 
         /* MODAL */
         .modal {
-          position: fixed;
-          top: 50%;
-          left: 50%;
-          transform: translate(-50%, -50%);
           width: 90%;
-          max-width: 420px;
+          max-width: 650px;
           background: #fff;
           border-radius: 14px;
           padding: 20px;
-          z-index: 1002;
           box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+
+          transform-origin: top center;
+          animation: foldOpen 360ms cubic-bezier(0.25, 0.8, 0.25, 1);
+          pointer-events: auto;
+        }
+
+        .modalWrap {
+          position: fixed;
+          inset: 0;
+          z-index: 1002;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          pointer-events: none;
+        }
+
+        @keyframes foldOpen {
+          0% {
+            opacity: 0;
+            transform: rotateX(-90deg) scale(0.96);
+          }
+          60% {
+            opacity: 1;
+            transform: rotateX(12deg) scale(1.02);
+          }
+          100% {
+            transform: rotateX(0deg) scale(1);
+          }
+        }
+
+        .modalText .small {
+          font-size: 12px;
+          color: #64748b;
+        }
+
+        .modalText .divider {
+          height: 8px;
         }
 
         .modalHeader {
@@ -211,7 +250,7 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
           margin-bottom: 16px;
         }
 
-        .ytButton {
+        .closeButton {
           display: block;
           text-align: center;
           padding: 10px 14px;
@@ -221,7 +260,7 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
           font-weight: 600;
           text-decoration: none;
         }
-        .ytButton:hover {
+        .closeButton:hover {
           background: #e63232;
         }
 

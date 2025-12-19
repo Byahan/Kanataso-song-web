@@ -5,6 +5,9 @@ import Image from "next/image";
 const ARTIST_COLOR_MAP: Record<string, string> = {
   "minato aqua": "aqua",
   "amane kanata": "kanata",
+  "ayunda risu": "ayunda",
+  "azki":"azki",
+  "sakamata chloe":"chloe",
 };
 
 const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
@@ -234,7 +237,6 @@ export default function SongCard({
           border-radius: 999px;
         }
 
-        /* ===== artist pills (required locally) ===== */
         .pill {
           display: inline-flex;
           align-items: center;
@@ -254,6 +256,21 @@ export default function SongCard({
         .pill.kanata {
           background: #c7d2fe;
           color: #1e3a8a;
+        }
+
+        .pill.ayunda {
+          background: #ffdc6aff;
+          color: #2e3033ff;
+        }
+
+        .pill.azki {
+          background: #ff2c6fff;
+          color: #f7d1f2ff;
+        }
+
+        .pill.chloe {
+          background: #0a0808ff;
+          color: #f71143ff;
         }
 
         .collabSymbol {

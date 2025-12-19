@@ -108,7 +108,18 @@ export default function Home(): JSX.Element {
           tag.toLowerCase().includes(q)
         );
 
-        return titleMatch || artistMatch || tagMatch;
+        const originalArtistText = Array.isArray(song.originalartist)
+          ? song.originalartist.join(" ").toLowerCase()
+          : song.originalartist?.toLowerCase() ?? "";
+
+        const originalArtistMatch = originalArtistText.includes(q);
+
+        return (
+          titleMatch ||
+          artistMatch ||
+          originalArtistMatch ||
+          tagMatch
+        );
       });
     }
 
@@ -197,7 +208,16 @@ export default function Home(): JSX.Element {
                     time: song.start,
                     title: song.title,
                     originalUrl: song.originalUrl,
+                    originalartist: song.originalartist,
                   }))
+                : currentVodType === "mv" && currentVod.songs?.[0]?.originalartist
+                ? [
+                    {
+                      time: "00:00",
+                      title: currentVod.title,
+                      originalartist: currentVod.songs[0].originalartist,
+                    },
+                  ]
                 : []
             }
             onTimestampClick={

@@ -16,7 +16,9 @@ const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
   original: { bg: "#c7d2fe", color: "#1e3a8a" },
   cover: { bg: "#fbcfe8", color: "#831843" },
   collab: { bg: "#bbf7d0", color: "#065f46" },
-  "unknown diva": { bg: "#f59e0b", color: "#1f2937" },
+  "unknown diva": { bg: "#9437fdff", color: "#ffffffff" },
+  mv: { bg: "#b34dbeff", color: "#cffff1ff" },
+  "3d": { bg: "#d8637cff", color: "#cffff1ff" },
 };
 
 function normalizeTag(tag: string): string {
@@ -54,6 +56,7 @@ interface DescriptionProps {
     time: string;
     title: string;
     originalUrl?: string;
+    originalartist?: string | string[];
   }[];
   vodType: VodType;
 
@@ -73,7 +76,7 @@ export default function PlayerDescription({
 }: DescriptionProps): JSX.Element {
 
     const [showAllTimestamps, setShowAllTimestamps] = useState(false);
-    const INITIAL_TIMESTAMP_COUNT = 3;
+    const INITIAL_TIMESTAMP_COUNT = 2;
 
     const visibleTimestamps = showAllTimestamps
       ? timestamps
@@ -89,25 +92,46 @@ export default function PlayerDescription({
 
         {vodType === "mv" && (
           <>
+            {/* VOCAL */}
             <div className="label">Vocal</div>
             <div className="value">
               {Array.isArray(artist) ? (
-                <span>
-                  {artist.map((name, i) => (
-                    <span key={i}>
-                      <span className={`pill ${getArtistClass(name)}`}>
-                        {name}
-                      </span>
-                      {i < artist.length - 1 && (
-                        <span className="collabSymbol"> × </span>
-                      )}
-                    </span>
-                  ))}
-                </span>
+                artist.map((name, i) => (
+                  <span key={i}>
+                    <span className={`pill ${getArtistClass(name)}`}>{name}</span>
+                    {i < artist.length - 1 && (
+                      <span className="collabSymbol"> × </span>
+                    )}
+                  </span>
+                ))
               ) : (
-                artist && <span className="pill">{artist}</span>
+                <span className="pill">{artist}</span>
               )}
             </div>
+
+            {/* ORIGINAL ARTIST */}
+            {timestamps[0]?.originalartist && (
+              <>
+                <div className="label">Original Artist</div>
+                <div className="value">
+                  {Array.isArray(timestamps[0].originalartist) ? (
+                    timestamps[0].originalartist.map((name: string, i: number) => (
+                      <span key={i}>
+                        <span className="pill">{name}</span>
+                        {Array.isArray(timestamps[0]?.originalartist) &&
+                        i < timestamps[0].originalartist.length - 1 && (
+                          <span className="collabSymbol"> × </span>
+                        )}
+                      </span>
+                    ))
+                  ) : (
+                    <span className="pill">
+                      {timestamps[0].originalartist}
+                    </span>
+                  )}
+                </div>
+              </>
+            )}
           </>
         )}
 

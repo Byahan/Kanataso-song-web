@@ -127,42 +127,382 @@
     ] 
   },
 
-  {
-    "videoId": "wvtP9tUr_S4",
-    "title": "セルフサービス / 天音かなた(official)",
-    "date": "05/31/2025",
+    {
+    "videoId": "DwGqHnBZh3E",
+    "title": "わたしのせいだ",
+    "date": "07/22/2025",
     "artist": ["Amane Kanata"],
-    "videoUrl": "https://www.youtube.com/watch?v=wvtP9tUr_S4",
+    "videoUrl": "https://www.youtube.com/watch?v=ttJbYZzY1r8",
     "isLivestream": false,
     "songs": [
       {
-        "title": "セルフサービス [Self Service] / 天音かなた(official)",
+        "title": "わたしのせいだ [Watashi no seida]",
        "artist": ["Amane Kanata"],
         "start": "00:00",
-        "originalUrl": "https://www.youtube.com/watch?v=wvtP9tUr_S4",
+        "originalUrl": "https://www.youtube.com/watch?v=ttJbYZzY1r8",
         "tags": ["original", "Trigger"]
+      }
+    ]
+  },
+  {
+    "videoId": "DwGqHnBZh3E",
+    "title": "睡キャン界隈",
+    "date": "07/22/2025",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=yN87ZV8Jxo4",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "睡キャン界隈 [SUIKYANKAIWAI]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=yN87ZV8Jxo4",
+        "tags": ["original", "Trigger"]
+      }
+    ]
+  },
+  {
+    "videoId": "DwGqHnBZh3E",
+    "title": "インキャララバイ",
+    "date": "07/22/2025",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=DwGqHnBZh3E",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "インキャララバイ [Inkya Lullaby]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=DwGqHnBZh3E",
+        "tags": ["original", "Trigger"]
+      }
+    ]
+  },
+  {
+    "videoId": "RznzWYHfalc",
+    "title": "十万億土",
+    "date": "07/22/2025",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=RznzWYHfalc",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "十万億土 [Juumanokudo]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=RznzWYHfalc",
+        "tags": ["original", "Trigger"]
+      }
+    ]
+  },
+  {
+    "videoId": "4qHnXDyVcYg",
+    "title": "DA・LI・LA",
+    "date": "07/22/2025",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=4qHnXDyVcYg",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "DA・LI・LA",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=4qHnXDyVcYg",
+        "tags": ["original", "Trigger"]
+      }
+    ]
+  },
+  {
+    "videoId": "dWhH50ADZTc",
+    "title": "世界で一番のアイドル / 天音かなた(official)",
+    "date": "08/13/2025",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=dWhH50ADZTc",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "世界で一番のアイドル [Sekai de ichiban no idol]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=dWhH50ADZTc",
+        "tags": ["original", "Trigger", "MV"]
       }
     ]
   },
 
   {
-    "videoId": "Ohf-kbf6cR4",
-    "title": "Last-resort / 天音かなた(official)",
-    "date": "07/23/2025",
+    "videoId": "JiZHJzcbs4s",
+    "title": "きゅーぴっど。 / 天音かなた(official)",
+    "date": "04/22/2025",
     "artist": ["Amane Kanata"],
-    "videoUrl": "https://www.youtube.com/watch?v=Ohf-kbf6cR4",
+    "videoUrl": "https://www.youtube.com/watch?v=JiZHJzcbs4s",
     "isLivestream": false,
     "songs": [
       {
-        "title": "Last-resort / 天音かなた(official)",
+        "title": "きゅーぴっど。[Cupid]",
         "artist": ["Amane Kanata"],
         "start": "00:00",
-        "originalUrl": "https://www.youtube.com/watch?v=Ohf-kbf6cR4",
-        "tags": ["original", "Trigger"]
+        "originalUrl": "https://www.youtube.com/watch?v=JiZHJzcbs4s",
+        "tags": ["original", "Trigger", "MV"]
       }
     ]
   },
 
+    {
+    "videoId": "Ktk_EDLDPeY",
+    "title": "【Original Anime MV】別世界 - 天音かなた【ホロライブ】",
+    "date": "12/28/2022",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=Ktk_EDLDPeY",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "【Original Anime MV】別世界 [Betsu Sekai]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=DMUOwv4ynps",
+        "tags": ["original", "Unknown DIVA", "MV"]
+      }
+    ]
+  },   
+    {
+    "videoId": "DMUOwv4ynps",
+    "title": "特者生存ワンダラダー!! （Twilight ver.）",
+    "date": "11/26/2021",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=DMUOwv4ynps",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "特者生存ワンダラダー!! （Twilight ver.）[Tokusha Seizon Wonder-la-der!!]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=DMUOwv4ynps",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },
+    {
+    "videoId": "mcQs0iQE0bs",
+    "title": "【Original MV】特者生存ワンダラダー!! 【天音かなた/hololive】",
+    "date": "08/19/2021",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=mcQs0iQE0bs",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "【Original MV】特者生存ワンダラダー!! [Tokusha Seizon Wonder-la-der!!]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=mcQs0iQE0bs",
+        "tags": ["original", "Unknown DIVA", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "wToRgQzYAA0",
+    "title": "天使のagape【天音かなた/hololive】",
+    "date": "12/27/2021",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=wToRgQzYAA0",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "天使のagape [Tenshi no agape]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=wToRgQzYAA0",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },   
+    {
+    "videoId": "zREufEpj0zM",
+    "title": "【Original anime MV】天使のagape【天音かなた/hololive】",
+    "date": "12/27/2021",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=zREufEpj0zM",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "【Original anime MV】天使のagape [Tenshi no agape]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=zREufEpj0zM",
+        "tags": ["original", "Unknown DIVA", "MV"]
+      }
+    ]
+  },   
+    {
+    "videoId": "WJQveddc_Q4",
+    "title": "[オリジナル曲] 中空の庭 - 天音かなた",
+    "date": "04/26/2022",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=WJQveddc_Q4",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "中空の庭 [Chuukuu no Niwa]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=WJQveddc_Q4",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },       
+    {
+    "videoId": "Q_XXZd2zFk8",
+    "title": "特者生存ワンダラダー!! (UnknownDIVA ver.)",
+    "date": "03/12/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=Q_XXZd2zFk8",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "特者生存ワンダラダー!! (UnknownDIVA ver.) [Tokusha Seizon Wonder-la-der!!]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=Q_XXZd2zFk8",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },       
+    {
+    "videoId": "Rept_crNzyw",
+    "title": "【Original MV】純粋心 - 天音かなた【つんく／テレビ東京系「ゴッドタン」2月度エンディングテーマ】",
+    "date": "02/03/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=Rept_crNzyw",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "純粋心 [Junsuishin]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=Rept_crNzyw",
+        "tags": ["original", "Unknown DIVA", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "Z2K1H9D0DZ8",
+    "title": "片羽(カタハ) / 天音かなた(official)",
+    "date": "12/27/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=Z2K1H9D0DZ8",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "片羽(カタハ) [Kataha]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=Z2K1H9D0DZ8",
+        "tags": ["original", "Unknown DIVA", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "RBJgdbKoAxY",
+    "title": "救済のÉnde",
+    "date": "03/13/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=RBJgdbKoAxY",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "救済のÉnde [Kyuusai no Énde]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=RBJgdbKoAxY",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },
+    {
+    "videoId": "2GMU_uWTqIc",
+    "title": "中空の庭 (UnknownDIVA ver.)",
+    "date": "03/13/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=2GMU_uWTqIc",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "中空の庭 (UnknownDIVA ver.) [Chuukuu no Niwa]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=2GMU_uWTqIc",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },
+    {
+    "videoId": "DSgu3_K3p2U",
+    "title": "返信願望 / 天音かなた(official)",
+    "date": "03/13/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=DSgu3_K3p2U",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "返信願望 [Henshin Ganbou]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=DSgu3_K3p2U",
+        "tags": ["original", "Unknown DIVA", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "NqMSkYjvJq8",
+    "title": "別世界 (UnknownDIVA ver.)",
+    "date": "03/12/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=NqMSkYjvJq8",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "別世界 (UnknownDIVA ver.) [Betsu Sekai]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=NqMSkYjvJq8",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },
+    {
+    "videoId": "PCm3F4n4_w8",
+    "title": "START UP / 天音かなた(official)",
+    "date": "02/24/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=PCm3F4n4_w8",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "START UP",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=PCm3F4n4_w8",
+        "tags": ["original", "Unknown DIVA", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "LimknLQ8Ngw",
+    "title": "ハッピーピープル [Happy People]",
+    "date": "03/12/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=LimknLQ8Ngw",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "ハッピーピープル [Happy People]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=LimknLQ8Ngw",
+        "tags": ["original", "Unknown DIVA"]
+      }
+    ]
+  },
     {
     "videoId": "7XqOWIiGFeM",
     "title": "天使のagape (UnknownDIVA ver.)",
@@ -172,7 +512,7 @@
     "isLivestream": false,
     "songs": [
       {
-        "title": "天使のagape (UnknownDIVA ver.)",
+        "title": "天使のagape (UnknownDIVA ver.) [Tenshi no agape]",
        "artist": ["Amane Kanata"],
         "start": "00:00",
         "originalUrl": "https://www.youtube.com/watch?v=7XqOWIiGFeM",
@@ -180,22 +520,417 @@
       }
     ]
   },
+    {
+    "videoId": "CreBLwKpLXc",
+    "title": "【Original MV】Knock it out! - 天音かなた【Giga & TeddyLoid】",
+    "date": "01/06/2024",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=CreBLwKpLXc",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "Knock it out!",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=CreBLwKpLXc",
+        "tags": ["original", "Unknown DIVA", "MV"]
+      }
+    ]
+  },
 
+    {
+    "videoId": "AVAOoP2g2BQ",
+    "title": "【MV】メメントモリ「lumière」/ Song by 天音かなた【hololive】",
+    "date": "07/30/2025",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=AVAOoP2g2BQ",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "メメントモリ [Lumière]",
+       "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=qG1HQ9-QlPI",
+        "tags": ["original", "MV"]
+      }
+    ]
+  },
 
+    {
+    "videoId": "5iswrqeglrw",
+    "title": "【LIVE】名前のない怪物 - 天音かなた cover【hololive】",
+    "date": "02/08/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"EGOIST",
+    "videoUrl": "https://www.youtube.com/watch?v=5iswrqeglrw",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "名前のない怪物 [Namae no nai kaibutsu]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"EGOIST",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=5iswrqeglrw",
+        "tags": ["cover", "3D"]
+      }
+    ]
+  },
+    {
+    "videoId": "CUGGBhdGWXI",
+    "title": "きゅうくらりん / 天音かなた(cover)",
+    "date": "03/09/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Iyowa",
+    "videoUrl": "https://www.youtube.com/watch?v=CUGGBhdGWXI",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "きゅうくらりん [Kyu-Kurarin]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Iyowa",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=CUGGBhdGWXI",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "tgcwdmMIdL0",
+    "title": "Bling-Bang-Bang-Born / 天音かなた(cover)",
+    "date": "04/22/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Creepy Nuts",
+    "videoUrl": "https://www.youtube.com/watch?v=tgcwdmMIdL0",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "Bling-Bang-Bang-Born",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Creepy Nuts",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=tgcwdmMIdL0",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "0m4wLKzmPYc",
+    "title": "混沌ブギ / 天音かなた(cover)",
+    "date": "05/02/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Jon-YAKITORY",
+    "videoUrl": "https://www.youtube.com/watch?v=0m4wLKzmPYc",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "混沌ブギ [Konton Boogie]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Jon-YAKITORY",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=mgHhamjgLOc",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "mgHhamjgLOc",
+    "title": "8番出口(Full ver) / 天音かなた(cover)",
+    "date": "06/03/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"EO",
+    "videoUrl": "https://www.youtube.com/watch?v=mgHhamjgLOc",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "8番出口 [Hachiban Deguchi]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"EO",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=mgHhamjgLOc",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "uBpAdYDupAs",
+    "title": "イガク / 天音かなた＋ユ！隊(cover)",
+    "date": "07/29/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Sasuke Haraguchi",
+    "videoUrl": "https://www.youtube.com/watch?v=uBpAdYDupAs",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "イガク [Igaku]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Sasuke Haraguchi",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=uBpAdYDupAs",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "uBpAdYDupAs",
+    "title": "イガク / 天音かなた＋ユ！隊(cover)",
+    "date": "07/29/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Sasuke Haraguchi",
+    "videoUrl": "https://www.youtube.com/watch?v=uBpAdYDupAs",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "イガク [Igaku]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Sasuke Haraguchi",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=uBpAdYDupAs",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "DdKWbqsvpl8",
+    "title": "シャンティ / 天音かなた(cover)",
+    "date": "08/21/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"wotaku",
+    "videoUrl": "https://www.youtube.com/watch?v=DdKWbqsvpl8",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "シャンティ [SHANTI]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"wotaku",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=DdKWbqsvpl8",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "_jI4rO4kAks",
+    "title": "青のすみか / 天音かなた(cover)",
+    "date": "08/28/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Tatsuya Kitani",
+    "videoUrl": "https://www.youtube.com/watch?v=_jI4rO4kAks",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "青のすみか [Ao no Sumika]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Tatsuya Kitani",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=_jI4rO4kAks",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "4jLU7NErdCI",
+    "title": "【結束バンド】月並みに輝け / 天音かなた(cover)",
+    "date": "12/11/2024",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Kessoku Band",
+    "videoUrl": "https://www.youtube.com/watch?v=4jLU7NErdCI",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "月並みに輝け [Tsukinami ni Kagayake]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Kessoku Band",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=4jLU7NErdCI",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "eRYi0oyJNGA",
+    "title": "テトリス / 天音かなた(cover)",
+    "date": "01/31/2025",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Hiiragi Magnetite",
+    "videoUrl": "https://www.youtube.com/watch?v=eRYi0oyJNGA",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "テトリス [Tetoris]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Hiiragi Magnetite",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=eRYi0oyJNGA",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "XPkVo5Opnqk",
+    "title": "【最強難易度】UNDEAD - 天音かなた cover【hololive】",
+    "date": "05/10/2025",
+    "artist": ["Amane Kanata"],
+    "originalartist":"YOASOBI",
+    "videoUrl": "https://www.youtube.com/watch?v=XPkVo5Opnqk",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "UNDEAD",
+        "artist": ["Amane Kanata"],
+        "originalartist":"YOASOBI",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=XPkVo5Opnqk",
+        "tags": ["cover", "3D"]
+      }
+    ]
+  },
+    {
+    "videoId": "iB-58-7BeB4",
+    "title": "【限界高音】ロストワンの号哭 - 天音かなた cover【hololive】",
+    "date": "05/29/2025",
+    "artist": ["Amane Kanata"],
+    "originalartist":"Neru",
+    "videoUrl": "https://www.youtube.com/watch?v=iB-58-7BeB4",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "ロストワンの号哭 [Lost One no Goukoku]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"Neru",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=iB-58-7BeB4",
+        "tags": ["cover", "3D"]
+      }
+    ]
+  },
+    {
+    "videoId": "U7L-96JpXe4",
+    "title": "テレパシ / 天音かなた(cover)",
+    "date": "06/21/2025",
+    "artist": ["Amane Kanata"],
+    "originalartist":"DECO*27",
+    "videoUrl": "https://www.youtube.com/watch?v=U7L-96JpXe4",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "テレパシ [Telepathy]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"DECO*27",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=U7L-96JpXe4",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "OHuNxItVx_A",
+    "title": "モニタリング (Best Friend Remix) / 天音かなた(cover)",
+    "date": "12/07/2025",
+    "artist": ["Amane Kanata"],
+    "originalartist":"DECO*27",
+    "videoUrl": "https://www.youtube.com/watch?v=OHuNxItVx_A",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "モニタリング (Best Friend Remix) [Monitoring]",
+        "artist": ["Amane Kanata"],
+        "originalartist":"DECO*27",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=qG1HQ9-QlPI",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+    {
+    "videoId": "qG1HQ9-QlPI",
+    "title": "Leech",
+    "date": "03/14/2023",
+    "artist": ["Amane Kanata"],
+    "videoUrl": "https://www.youtube.com/watch?v=qG1HQ9-QlPI",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "Leech",
+        "artist": ["Amane Kanata"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=qG1HQ9-QlPI",
+        "tags": ["original", "holo*27", "collab"]
+      }
+    ]
+  },
+
+  {
+    "videoId": "HGi00w1Be8g",
+    "title": "【激ムズハモリ】勇者 - 天音かなた＆AZKi cover【hololive】",
+    "date": "05/28/2024",
+    "artist": ["Amane Kanata", "Sakamata Chloe"],
+    "originalartist":"DECO*27",
+    "videoUrl": "https://www.youtube.com/watch?v=HGi00w1Be8g",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "勇者 [Yuusha]",
+        "artist": ["Amane Kanata", "AZKi"],
+        "originalartist":"YOASOBI",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=HGi00w1Be8g",
+        "tags": ["cover", "collab", "3D"]
+      }
+    ]
+  },
+  {
+    "videoId": "WYKCz9hbXkY",
+    "title": "ラビットホール / 天音かなた×沙花叉クロヱ(cover)",
+    "date": "05/07/2024",
+    "artist": ["Amane Kanata", "Sakamata Chloe"],
+    "originalartist":"DECO*27",
+    "videoUrl": "https://www.youtube.com/watch?v=WYKCz9hbXkY",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "ラビットホール [Rabbit Hole]",
+        "artist": ["Amane Kanata", "Sakamata Chloe"],
+        "originalartist":"DECO*27",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=WYKCz9hbXkY",
+        "tags": ["cover", "collab", "MV"]
+      }
+    ]
+  },
   {
     "videoId": "EbWme7sDqgU",
     "title": "メズマライザー [Mesmerizer] / 天音かなた×湊あくあ(cover)",
     "date": "09/04/2024",
     "artist": ["Amane Kanata", "Minato Aqua"],
+    "originalartist":"32ki",
     "videoUrl": "https://www.youtube.com/watch?v=EbWme7sDqgU",
     "isLivestream": false,
     "songs": [
       {
-        "title": "メズマライザー [Mesmerizer] / 天音かなた×湊あくあ(cover)",
+        "title": "メズマライザー [Mesmerizer]",
         "artist": ["Amane Kanata", "Minato Aqua"],
+        "originalartist":"32ki",
         "start": "00:00",
         "originalUrl": "https://www.youtube.com/watch?v=EbWme7sDqgU",
-        "tags": ["cover", "collab"]
+        "tags": ["cover", "collab", "MV"]
+      }
+    ]
+  },
+  {
+    "videoId": "mQxHUn9E-Ec",
+    "title": "【激アツ歌唱】革命デュアリズム - 天音かなた＆アユンダ・リス cover【hololive】",
+    "date": "09/04/2024",
+    "artist": ["Amane Kanata", "Ayunda Risu"],
+    "videoUrl": "https://www.youtube.com/watch?v=mQxHUn9E-Ec",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "革命デュアリズム [Kakumei Dualism]",
+        "artist": ["Amane Kanata", "Ayunda Risu"],
+        "originalartist":["T.M.Revolution", "Nana Mizuki"],
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=mQxHUn9E-Ec",
+        "tags": ["cover", "collab", "3D"]
       }
     ]
   }

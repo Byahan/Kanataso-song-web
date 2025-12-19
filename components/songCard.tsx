@@ -12,8 +12,11 @@ const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
   original: { bg: "#c7d2fe", color: "#1e3a8a" },
   cover: { bg: "#fbcfe8", color: "#831843" },
   collab: { bg: "#bbf7d0", color: "#065f46" },
-
+  mv: { bg: "#b34dbeff", color: "#cffff1ff" },
+  "holo*27": { bg: "#4ce659ff", color: "#cffff1ff" },
   "unknown diva": { bg: "#9437fdff", color: "#ffffffff" },
+  "3d": { bg: "#d8637cff", color: "#cffff1ff" },
+  
 };
 
 function getArtistClass(name: string): string {
@@ -23,7 +26,7 @@ function getArtistClass(name: string): string {
 function normalizeTag(tag: string): string {
   return tag
     .toLowerCase()
-    .replace(/[^a-z0-9 ]/g, "")
+    .replace(/[^a-z0-9 *]/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -86,24 +89,42 @@ export default function SongCard({
         <div className="title">{song.title}</div>
 
         {/* ARTIST (string | string[]) */}
+        {/* ARTIST */}
         <div className="artist">
+          {/* ORIGINAL ARTIST (MV ONLY) */}
+          {vodType === "mv" && song.originalartist && (
+            <>
+              {Array.isArray(song.originalartist) ? (
+                song.originalartist.map((name: string, i: number) => (
+                  <span key={`orig-${i}`}>
+                    <span className="pill">{name}</span>
+                    {Array.isArray(song.originalartist) &&
+                    i < song.originalartist.length - 1 && (
+                      <span className="collabSymbol"> x </span>
+                    )}
+                  </span>
+                ))
+              ) : (
+                <span className="pill">{song.originalartist}</span>
+              )}
+              <span className="collabSymbol"> • </span>
+            </>
+          )}
+
+          {/* VOCAL */}
           {Array.isArray(song.artist) ? (
-            <span>
-              {song.artist.map((name, i) => (
-                <span key={`${name}-${i}`}>
-                  <span className={`pill ${getArtistClass(name)}`}>{name}</span>
-                  {i < song.artist.length - 1 && (
-                    <span className="collabSymbol"> × </span>
-                  )}
-                </span>
-              ))}
-            </span>
-          ) : (
-            song.artist && (
-              <span className={`pill ${getArtistClass(song.artist)}`}>
-                {song.artist}
+            song.artist.map((name, i) => (
+              <span key={`${name}-${i}`}>
+                <span className={`pill ${getArtistClass(name)}`}>{name}</span>
+                {i < song.artist.length - 1 && (
+                  <span className="collabSymbol"> × </span>
+                )}
               </span>
-            )
+            ))
+          ) : (
+            <span className={`pill ${getArtistClass(song.artist)}`}>
+              {song.artist}
+            </span>
           )}
         </div>
 

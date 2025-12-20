@@ -71,10 +71,11 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
           </div>
 
           <div className="modalText">
-            <p>This website is a fan-made archive dedicated to Amane Kanata.</p>
+            <p>This is an unofficial, fan-made site.</p>
             <p>
-              This website works as long Kanata doesn't archive her stream / MV.
+              All videos are produced by Amane Kanata and Hololive, and all rights belong to their respective creators.
             </p>
+            <p>This website works as long as Kanata does not archive her streams or MVs.</p>
              <div className="divider" />
             <p className="small">Last Updated: 12/19/2025 10:30 PM</p>
             <p className="small">
@@ -180,16 +181,25 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
 
         /* MODAL */
         .modal {
-          width: 90%;
-          max-width: 650px;
+          width: 92vw;
+          max-width: 660px;
+          min-width: 280px;
+
           background: #fff;
           border-radius: 14px;
           padding: 20px;
-          box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
 
+          box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
           transform-origin: top center;
           animation: foldOpen 360ms cubic-bezier(0.25, 0.8, 0.25, 1);
           pointer-events: auto;
+        }
+
+        /* Tablet and up */
+        @media (min-width: 640px) {
+          .modal {
+            padding: 24px 28px;
+          }
         }
 
         .modalWrap {

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { JSX, useState } from "react";
 import MenuDrawer from "./menubar";
 
@@ -9,22 +8,18 @@ export default function Navbar(): JSX.Element {
     <>
       <header className="navbar">
         <div className="left">
-          <div
-            className="logoWrapper"
+          <button
+            className="hamburger"
+            aria-label="Open menu"
             onClick={() => setMenuOpen(true)}
           >
-            <Image
-              src="/logo2.svg"
-              alt="PPTenshi Logo"
-              width={62}
-              height={62}
-              className="logo"
-            />
-          </div>
+            <span />
+            <span />
+            <span />
+          </button>
 
           <span className="title">PPTenshi Song Archive</span>
         </div>
-
       </header>
 
       <MenuDrawer
@@ -32,49 +27,56 @@ export default function Navbar(): JSX.Element {
         onClose={() => setMenuOpen(false)}
       />
 
-        <style jsx global>{`
-          @keyframes spin {
-            from {
-              transform: rotate(45deg);
-            }
-            to {
-              transform: rotate(405deg);
-            }
-          }
+      <style jsx global>{`
+        .navbar {
+          height: 60px;
+          background: #4da3ff;
+          display: flex;
+          align-items: center;
+          padding: 0 24px;
+          color: white;
+          z-index: 30;
+          position: relative;
+        }
 
-          .navbar {
-            height: 60px;
-            background: #4da3ff;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0 24px;
-            color: white;
-            z-index: 30;
-            position: relative;
-          }
+        .left {
+          display: flex;
+          align-items: center;
+          gap: 14px;
+        }
 
-          .left {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-          }
+        /* Hamburger button */
+        .hamburger {
+          width: 36px;
+          height: 28px;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          background: none;
+          border: none;
+          padding: 0;
+          cursor: pointer;
+        }
 
-          .logo {
-            transform: rotate(45deg);
-            transform-origin: center;
-            will-change: transform;
-          }
+        .hamburger span {
+          display: block;
+          height: 4px;
+          width: 100%;
+          background: white;
+          border-radius: 2px;
+          transition: opacity 0.2s ease;
+        }
 
-          .logoWrapper:hover .logo {
-            animation: spin 1.2s linear infinite;
-          }
+        .hamburger:hover span {
+          opacity: 0.8;
+        }
 
-          .title {
-            font-size: 18px;
-            font-weight: 600;
-          }
-        `}</style>
+        .title {
+          font-size: 18px;
+          font-weight: 600;
+          white-space: nowrap;
+        }
+      `}</style>
     </>
   );
 }

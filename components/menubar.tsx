@@ -181,25 +181,16 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
 
         /* MODAL */
         .modal {
-          width: 92vw;
-          max-width: 660px;
-          min-width: 280px;
-
+          width: 90%;
+          max-width: 650px;
           background: #fff;
           border-radius: 14px;
           padding: 20px;
-
           box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+
           transform-origin: top center;
           animation: foldOpen 360ms cubic-bezier(0.25, 0.8, 0.25, 1);
           pointer-events: auto;
-        }
-
-        /* Tablet and up */
-        @media (min-width: 640px) {
-          .modal {
-            padding: 24px 28px;
-          }
         }
 
         .modalWrap {

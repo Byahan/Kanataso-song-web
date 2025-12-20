@@ -1,25 +1,28 @@
+import Image from "next/image";
 import { JSX, useState } from "react";
 import MenuDrawer from "./menubar";
 
 export default function Navbar(): JSX.Element {
   const [menuOpen, setMenuOpen] = useState(false);
 
-  return (
-    <>
-      <header className="navbar">
-        <div className="left">
-          <button
-            className="hamburger"
-            aria-label="Open menu"
-            onClick={() => setMenuOpen(true)}
-          >
-            <span />
-            <span />
-            <span />
-          </button>
+
+      return (
+        <>
+          <header className="navbar">
+            <div className="left">
+              <button
+                className="hamburger"
+                aria-label="Open menu"
+                onClick={() => setMenuOpen(true)}
+              >
+                <span />
+                <span />
+                <span />
+              </button>
 
           <span className="title">PPTenshi Song Archive</span>
         </div>
+
       </header>
 
       <MenuDrawer
@@ -27,25 +30,34 @@ export default function Navbar(): JSX.Element {
         onClose={() => setMenuOpen(false)}
       />
 
-      <style jsx global>{`
-        .navbar {
-          height: 60px;
-          background: #4da3ff;
-          display: flex;
-          align-items: center;
-          padding: 0 24px;
-          color: white;
-          z-index: 30;
-          position: relative;
-        }
+        <style jsx global>{`
+          @keyframes spin {
+            from {
+              transform: rotate(45deg);
+            }
+            to {
+              transform: rotate(405deg);
+            }
+          }
 
-        .left {
-          display: flex;
-          align-items: center;
-          gap: 14px;
-        }
+          .navbar {
+            height: 60px;
+            background: #4da3ff;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            color: white;
+            z-index: 30;
+            position: relative;
+          }
 
-        /* Hamburger button */
+          .left {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+          }
+
         .hamburger {
           width: 36px;
           height: 28px;
@@ -71,12 +83,11 @@ export default function Navbar(): JSX.Element {
           opacity: 0.8;
         }
 
-        .title {
-          font-size: 18px;
-          font-weight: 600;
-          white-space: nowrap;
-        }
-      `}</style>
+          .title {
+            font-size: 18px;
+            font-weight: 600;
+          }
+        `}</style>
     </>
   );
 }

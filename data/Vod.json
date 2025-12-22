@@ -935,6 +935,109 @@
       }
     ]
   },
+  {
+  "videoId": "i6y0ybi59CI",
+  "title": "ずうっといっしょ！ / 天音かなた×雪花ラミィ×百鬼あやめ×AZKi(cover)",
+  "date": "10/04/2025",
+  "artist": ["Amane Kanata", "Yukihana Lamy", "Nakiri Ayame", "AZKi"],
+  "originalartist": "キタニタツヤ (Tatsuya Kitani)",
+  "videoUrl": "https://www.youtube.com/watch?v=i6y0ybi59CI",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "ずうっといっしょ！ [Zuutto Issho!]",
+      "artist": ["Amane Kanata", "Yukihana Lamy", "Nakiri Ayame", "AZKi"],
+      "originalartist": "Tatsuya Kitani",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=i6y0ybi59CI",
+      "tags": ["cover", "collab", "MV"]
+    }
+  ]
+  },
+  {
+  "videoId": "jkJJuL6oiVo",
+  "title": "【３人で】ビビデバ - 天音かなた＆沙花叉クロヱ＆AZKi cover",
+  "date": "2025/01/01",
+  "artist": ["Amane Kanata", "Sakamata Chloe", "AZKi"],
+  "originalartist": "Hoshimachi Suisei",
+  "videoUrl": "https://www.youtube.com/watch?v=jkJJuL6oiVo",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "ビビデバ [Bibbidiba]",
+      "artist": ["Amane Kanata", "Sakamata Chloe", "AZKi"],
+      "originalartist": "Hoshimachi Suisei",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=jkJJuL6oiVo",
+      "tags": ["cover", "collab", "3D"]
+    }
+  ]
+},
+{
+  "videoId": "9viw1iX15QU",
+  "title": "唱 / 天音かなた×大神ミオ×尾丸ポルカ×ラプラス・ダークネス×沙花叉クロヱ×儒烏風亭らでん(cover)",
+  "date": "2024/10/06",
+  "artist": [
+    "Amane Kanata",
+    "Ookami Mio",
+    "Omaru Polka",
+    "Laplus Darknesss",
+    "Sakamata Chloe",
+    "Juufuutei Raden"
+  ],
+  "originalartist": "Ado",
+  "videoUrl": "https://www.youtube.com/watch?v=9viw1iX15QU",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "唱 [Show]",
+      "artist": [
+        "Amane Kanata",
+        "Ookami Mio",
+        "Omaru Polka",
+        "Laplus Darknesss",
+        "Sakamata Chloe",
+        "Juufuutei Raden"
+      ],
+      "originalartist": "Ado",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=9viw1iX15QU",
+      "tags": ["cover", "collab", "MV"]
+    }
+  ]
+  },
+  {
+  "videoId": "0HmntAvK-GM",
+  "title": "〖LIVE〗花の塔 - あまからっぺ cover〖hololive〗",
+  "date": "2024/06/16",
+  "artist": [
+    "Amane Kanata",
+    "Nakiri Ayame",
+    "Usada Pekora",
+    "Houshou Marine",
+    "Yukihana Lamy"
+  ],
+  "originalartist": "さユり (Sayuri)",
+  "videoUrl": "https://www.youtube.com/watch?v=0HmntAvK-GM",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "花の塔 [Hana no Tou]",
+      "artist": [
+        "Amane Kanata",
+        "Nakiri Ayame",
+        "Usada Pekora",
+        "Houshou Marine",
+        "Yukihana Lamy"
+      ],
+      "originalartist": "Sayuri",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=0HmntAvK-GM",
+      "tags": ["cover", "collab", "3D"]
+    }
+  ]
+},
+
 
   {
     "videoId": "OC_kq1paZQY",

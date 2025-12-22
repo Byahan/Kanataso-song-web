@@ -9,6 +9,15 @@ const ARTIST_COLOR_MAP: Record<string, string> = {
   "azki":"azki",
   "sakamata chloe":"chloe",
   "sorahoshi kirame":"kirame",
+  "yukihana lamy": "lamy",
+  "nakiri ayame": "ayame",
+  "Hoshimachi Suisei": "suisei",
+  "ookami mio": "mio",
+  "omaru polka": "polka",
+  "laplus darknesss": "laplus",
+  "juufuutei raden": "raden",
+  "usada pekora": "pekora",
+  "houshou marine": "marine",
 };
 
 const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
@@ -278,6 +287,51 @@ export default function SongCard({
         .pill.kirame {
           background: #818cf8;
           color: #ffffff;
+        }
+
+        .pill.lamy {
+          background: #60A5FA;
+          color: #D7EAF8;
+        }
+
+        .pill.ayame {
+          background: #f74949ff;
+          color: #ffffff;
+        }
+
+        .pill.suisei {
+          background: #2563EB;
+          color: #F8FAFC;
+        }
+
+        .pill.mio {
+          background: #2F855A; 
+          color: #ECFDF5; 
+        }
+          
+        .pill.polka {
+          background: #F59E0B;
+          color: #1F2933; 
+        }
+
+        .pill.laplus {
+          background: #4C1D95;
+          color: #F5F3FF;
+        }
+
+        .pill.raden {
+          background: #7C2D12;
+          color: #FEF3C7;
+        }
+
+        .pill.pekora {
+          background: #FB923C;
+          color: #1F2937;
+        }
+          
+        .pill.marine {
+          background: #9F1239; 
+          color: #FFF1F2; 
         }
 
         .collabSymbol {

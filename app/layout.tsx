@@ -1,64 +1,23 @@
-"use client";
-
+import type { Metadata } from "next";
 import "./globals.css";
-import { Poppins } from "next/font/google";
-import { useEffect, useState } from "react";
-import Image from "next/image";
+import LayoutClient from "./layoutclient";
 
-const poppins = Poppins({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  variable: "--font-poppins",
-});
+export const metadata: Metadata = {
+  title: "PPTenshi Song Archive",
+  icons: {
+    icon: "/logo2.svg",
+  },
+};
 
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const [phase, setPhase] = useState<"loading" | "exit" | "done">("loading");
-
-  useEffect(() => {
-    const minTime = new Promise((res) => setTimeout(res, 800));
-
-    const fontsReady = document.fonts?.ready ?? Promise.resolve();
-
-    const imagesReady = Promise.all(
-      Array.from(document.images).map(
-        (img) =>
-          img.complete ||
-          new Promise((res) => {
-            img.onload = img.onerror = () => res(true);
-          })
-      )
-    );
-
-    Promise.all([minTime, fontsReady, imagesReady]).then(() => {
-      setPhase("exit");
-
-      // allow fade-out animation to finish
-      setTimeout(() => setPhase("done"), 800);
-    });
-  }, []);
-
   return (
-    <html lang="en" className={poppins.variable}>
+    <html lang="en">
       <body>
-        {phase !== "done" && (
-          <div className={`introOverlay ${phase === "exit" ? "exit" : ""}`}>
-            <div className="introLogo">
-              <Image
-                src="/logo2.svg"
-                alt="PPTenshi Logo"
-                width={120}
-                height={120}
-                priority
-              />
-            </div>
-          </div>
-        )}
-
-        {children}
+        <LayoutClient>{children}</LayoutClient>
       </body>
     </html>
   );

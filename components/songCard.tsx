@@ -18,6 +18,11 @@ const ARTIST_COLOR_MAP: Record<string, string> = {
   "juufuutei raden": "raden",
   "usada pekora": "pekora",
   "houshou marine": "marine",
+  "amamiya kokoro": "kokoro",
+  "himemori luna": "luna",
+  "shishidou akari": "akari",
+  "murasaki shion": "shion",
+  "sakura miko": "miko",
 };
 
 const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
@@ -187,7 +192,7 @@ export default function SongCard({
         }
 
         .songCard:not(.active-karaoke):not(.active-mv):hover {
-          background: #76b0fd;
+          background: #95c3ffff;
         }
 
         .songCard.active-karaoke {
@@ -195,7 +200,7 @@ export default function SongCard({
         }
 
         .songCard.active-mv {
-          background: linear-gradient(45deg, #e4f4ff 37%, #5b73d4ff 100%);
+          background: linear-gradient(45deg, #e4f4ff 37%, #99a7dfff 100%);
         }
 
         .thumb {
@@ -224,6 +229,10 @@ export default function SongCard({
         }
 
         .artist {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          gap: 6px 8px;
           font-size: 13px;
           color: #2563eb;
         }
@@ -334,10 +343,35 @@ export default function SongCard({
           color: #FFF1F2; 
         }
 
+        .pill.kokoro {
+          background: #93C5FD;
+          color: #F8FAFC; 
+        }
+
+        .pill.luna {
+          background: #F9A8D4;
+          color: #701A75; 
+        }
+
+        .pill.akari {
+          background: #FBBF24;
+          color: #78350F;
+        }
+      
+        .pill.shion {
+          background: #8B5CF6;
+          color: #F5F3FF;
+        }
+
+        .pill.miko {
+          background: #FB7185;
+          color: #FFF1F2;
+        }
+
         .collabSymbol {
           font-weight: 800;
           color: #2563eb;
-          margin: 0 6px;
+          margin: 0 2px;
         }
 
         @media (max-width: 768px) {

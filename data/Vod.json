@@ -841,6 +841,45 @@
       }
     ]
   },
+  {
+    "videoId": "234RMlK0ntc",
+    "title": "強風オールバック / 天音かなた(cover)",
+    "date": "2023/06/25",
+    "artist": ["Amane Kanata"],
+    "originalartist": "Yukopi",
+    "videoUrl": "https://www.youtube.com/watch?v=234RMlK0ntc",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "強風オールバック [Kyoufuu All Back]",
+        "artist": ["Amane Kanata"],
+        "originalartist": "Yukopi",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=234RMlK0ntc",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+  {
+    "videoId": "_8yP7wml4Qs",
+    "title": "アタシは問題作 / 天音かなた(cover)",
+    "date": "2023/06/17",
+    "artist": ["Amane Kanata"],
+    "originalartist": "Ado",
+    "videoUrl": "https://www.youtube.com/watch?v=_8yP7wml4Qs",
+    "isLivestream": false,
+    "songs": [
+      {
+        "title": "アタシは問題作 [Atashi wa Mondaisaku]",
+        "artist": ["Amane Kanata"],
+        "originalartist": "Ado",
+        "start": "00:00",
+        "originalUrl": "https://www.youtube.com/watch?v=_8yP7wml4Qs",
+        "tags": ["cover", "MV"]
+      }
+    ]
+  },
+
     {
     "videoId": "qG1HQ9-QlPI",
     "title": "Leech",
@@ -858,7 +897,6 @@
       }
     ]
   },
-
   {
     "videoId": "HGi00w1Be8g",
     "title": "【激ムズハモリ】勇者 - 天音かなた＆AZKi cover【hololive】",
@@ -1037,6 +1075,146 @@
     }
   ]
 },
+{
+  "videoId": "Aav1TSbO-OQ",
+  "title": "【耐久】アニメ「しかのこのこのここしたんたん」OPテーマ「シカ色デイズ」イントロ耐久1時間",
+  "date": "2024/07/10",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Shika-bu",
+  "videoUrl": "https://www.youtube.com/watch?v=Aav1TSbO-OQ",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "しか色デイズ [Shikairo Days] Intro Endurance",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Shika-bu",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=Aav1TSbO-OQ",
+      "tags": ["MV", "cover"]
+    }
+  ]
+},
+{
+  "videoId": "shXDiB3CZ60",
+  "title": "粛聖!! ロリ神レクイエム☆ / 天音かなた×天宮こころ×AZKi×獅子堂あかり×姫森ルーナ(cover)",
+  "date": "2024/04/01",
+  "artist": [
+    "Amane Kanata",
+    "Amamiya Kokoro",
+    "AZKi",
+    "Shishidou Akari",
+    "Himemori Luna"
+  ],
+  "originalartist": "Ui Shigure",
+  "videoUrl": "https://www.youtube.com/watch?v=shXDiB3CZ60",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "粛聖!! ロリ神レクイエム☆ [Shukusei!! Loli Kami Requiem☆]",
+      "artist": [
+        "Amane Kanata",
+        "Amamiya Kokoro",
+        "AZKi",
+        "Shishidou Akari",
+        "Himemori Luna"
+      ],
+      "originalartist": "Ui Shigure",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=shXDiB3CZ60",
+      "tags": ["cover", "collab", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "1NL-sIP9p_U",
+  "title": "ド屑 / 天音かなた×百鬼あやめ×雪花ラミィ×AZKi(cover)",
+  "date": "2024/02/12",
+  "artist": [
+    "Amane Kanata",
+    "Nakiri Ayame",
+    "Yukihana Lamy",
+    "AZKi"
+  ],
+  "originalartist": "歌愛ユキ (Utaai Yuki)",
+  "videoUrl": "https://www.youtube.com/watch?v=1NL-sIP9p_U",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "ド屑 [Dokuzu]",
+      "artist": [
+        "Amane Kanata",
+        "Nakiri Ayame",
+        "Yukihana Lamy",
+        "AZKi"
+      ],
+      "originalartist": "Utaai Yuki",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=1NL-sIP9p_U",
+      "tags": ["cover", "collab", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "wnjuq2cX2JM",
+  "title": "お呪い / 天音かなた×さくらみこ×紫咲シオン×宝鐘マリン×姫森ルーナ×沙花叉クロヱ(cover)",
+  "date": "2024/01/27",
+  "artist": [
+    "Amane Kanata",
+    "Sakura Miko",
+    "Murasaki Shion",
+    "Houshou Marine",
+    "Himemori Luna",
+    "Sakamata Chloe"
+  ],
+  "originalartist": "花隈千冬 (Hanakuma Chifuyu)",
+  "videoUrl": "https://www.youtube.com/watch?v=wnjuq2cX2JM",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "お呪い [Ojamai]",
+      "artist": [
+        "Amane Kanata",
+        "Sakura Miko",
+        "Murasaki Shion",
+        "Houshou Marine",
+        "Himemori Luna",
+        "Sakamata Chloe"
+      ],
+      "originalartist": "Hanakuma Chifuyu",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=wnjuq2cX2JM",
+      "tags": ["cover", "collab", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "hUchhqq0fpA",
+  "title": "【推しの子】サインはB アニメsize / 天音かなた、AZKi、沙花叉クロヱ(cover)",
+  "date": "2023/10/02",
+  "artist": [
+    "Amane Kanata",
+    "AZKi",
+    "Sakamata Chloe"
+  ],
+  "originalartist": "B小町 (B-Komachi)",
+  "videoUrl": "https://www.youtube.com/watch?v=hUchhqq0fpA",
+  "isLivestream": false,
+  "songs": [
+    {
+      "title": "サインはB [Sign wa B] (TV Size)",
+      "artist": [
+        "Amane Kanata",
+        "AZKi",
+        "Sakamata Chloe"
+      ],
+      "originalartist": "B-Komachi",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=hUchhqq0fpA",
+      "tags": ["cover", "collab", "MV"]
+    }
+  ]
+},
+
 
 
   {

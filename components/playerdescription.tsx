@@ -16,6 +16,11 @@ const ARTIST_COLOR_MAP: Record<string, string> = {
   "juufuutei raden": "raden",
   "usada pekora": "pekora",
   "houshou marine": "marine",
+  "amamiya kokoro": "kokoro",
+  "himemori luna": "luna",
+  "shishidou akari": "akari",
+  "murasaki shion": "shion",
+  "sakura miko": "miko",
 };
 
 function getArtistClass(name: string): string {
@@ -352,6 +357,31 @@ export default function PlayerDescription({
           color: #FFF1F2; 
         }
 
+        .pill.kokoro {
+          background: #93C5FD;
+          color: #F8FAFC; 
+        }
+
+        .pill.luna {
+          background: #F9A8D4;
+          color: #701A75; 
+        }
+
+        .pill.akari {
+          background: #FBBF24;
+          color: #78350F;
+        }
+
+        .pill.shion {
+          background: #8B5CF6;
+          color: #F5F3FF;
+        }
+
+        .pill.miko {
+          background: #FB7185;
+          color: #FFF1F2;
+        }
+          
         .link {
           color: #0284c7;
           font-weight: 600;

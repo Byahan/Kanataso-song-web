@@ -192,7 +192,7 @@ export default function SongCard({
         }
 
         .songCard:not(.active-karaoke):not(.active-mv):hover {
-          background: #95c3ffff;
+          background: #7ea3d3ff;
         }
 
         .songCard.active-karaoke {

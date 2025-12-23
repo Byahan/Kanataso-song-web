@@ -879,6 +879,672 @@
       }
     ]
   },
+  {
+  "videoId": "ZDuoUAAU0ug",
+  "title": "IDOL / YOASOBI (AmaneKanata cover.)",
+  "date": "2023/06/03",
+  "artist": ["Amane Kanata"],
+  "originalartist": "YOASOBI",
+  "videoUrl": "https://www.youtube.com/watch?v=ZDuoUAAU0ug",
+  "songs": [
+    {
+      "title": "IDOL",
+      "artist": ["Amane Kanata"],
+      "originalartist": "YOASOBI",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=ZDuoUAAU0ug",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "A81wI_AySTA",
+  "title": "マフィア(Mafia) / 天音かなた(cover)",
+  "date": "2023/04/07",
+  "artist": ["Amane Kanata"],
+  "originalartist": "wotaku",
+  "videoUrl": "https://www.youtube.com/watch?v=A81wI_AySTA",
+  "songs": [
+    {
+      "title": "マフィア (Mafia)",
+      "artist": ["Amane Kanata"],
+      "originalartist": "wotaku",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=A81wI_AySTA",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "9lqHkY8-anc",
+  "title": "マーシャル・マキシマイザー / 天音かなた(cover)",
+  "date": "2023/03/10",
+  "artist": ["Amane Kanata"],
+  "originalartist": "柊マグネタイト (Hiiragi Magnetite)",
+  "videoUrl": "https://www.youtube.com/watch?v=9lqHkY8-anc",
+  "songs": [
+    {
+      "title": "マーシャル・マキシマイザー [Marshall Maximizer]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Hiiragi Magnetite",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=9lqHkY8-anc",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "O01nNUXFoM8",
+  "title": "あの夏が飽和する。 / 天音かなた(cover)",
+  "date": "2023/02/09",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Kanzaki Iori",
+  "videoUrl": "https://www.youtube.com/watch?v=O01nNUXFoM8",
+  "songs": [
+    {
+      "title": "あの夏が飽和する。 [Ano Natsu ga Houwa Suru]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Kanzaki Iori",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=O01nNUXFoM8",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "c5czz3xhwTw",
+  "title": "KICKBACK / 天音かなた(cover)",
+  "date": "2023/01/31",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Kenshi Yonezu",
+  "videoUrl": "https://www.youtube.com/watch?v=c5czz3xhwTw",
+  "songs": [
+    {
+      "title": "KICKBACK",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Kenshi Yonezu",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=c5czz3xhwTw",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "m7MuUadCV90",
+  "title": "【21秒ロングトーン】unravel - 天音かなた 3DLIVE “別世界“",
+  "date": "2023/01/17",
+  "artist": ["Amane Kanata"],
+  "originalartist": "TK from 凛として時雨",
+  "videoUrl": "https://www.youtube.com/watch?v=m7MuUadCV90",
+  "songs": [
+    {
+      "title": "unravel",
+      "artist": ["Amane Kanata"],
+      "originalartist": "TK from 凛として時雨",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=m7MuUadCV90",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "eJGZ3iyA_SA",
+  "title": "しゅうまつがやってくる！／かなるーな(cover)",
+  "date": "2023/01/11",
+  "artist": ["Amane Kanata", "Himemori Luna"],
+  "originalartist": "sasakure.UK",
+  "videoUrl": "https://www.youtube.com/watch?v=eJGZ3iyA_SA",
+  "songs": [
+    {
+      "title": "しゅうまつがやってくる！ [Shuumatsu ga Yattekuru!]",
+      "artist": ["Amane Kanata", "Himemori Luna"],
+      "originalartist": "sasakure.UK",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=eJGZ3iyA_SA",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "KKHHsNhBF8s",
+  "title": "インドア系ならトラックメイカー / 天音かなた & 宝鐘マリン(cover)",
+  "date": "2022/12/18",
+  "artist": ["Amane Kanata", "Houshou Marine"],
+  "originalartist": ["Yunomi", "nicamoq"],
+  "videoUrl": "https://www.youtube.com/watch?v=KKHHsNhBF8s",
+  "songs": [
+    {
+      "title": "インドア系ならトラックメイカー [Indoor Kei Nara Trackmaker]",
+      "artist": ["Amane Kanata", "Houshou Marine"],
+      "originalartist": ["Yunomi", "nicamoq"],
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=KKHHsNhBF8s",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "GU1TZDTOeD4",
+  "title": "チノカテ／天音かなた(cover)",
+  "date": "2022/11/29",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Yorushika",
+  "videoUrl": "https://www.youtube.com/watch?v=GU1TZDTOeD4",
+  "songs": [
+    {
+      "title": "チノカテ [Chinokate]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Yorushika",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=Fq55MMfHoJg",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "cUgwWE6AMcY",
+  "title": "可愛くてごめんにオタクコール入れてみた【天音かなた】",
+  "date": "2023/02/13",
+  "artist": ["Amane Kanata"],
+  "originalartist": "HoneyWorks",
+  "videoUrl": "https://www.youtube.com/watch?v=cUgwWE6AMcY",
+  "songs": [
+    {
+      "title": "可愛くてごめん [Kawaikute Gomen]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "HoneyWorks",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=K4xLi8IF1FM",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "BFFvwrb4xrw",
+  "title": "バグ／天音かなた(cover)",
+  "date": "2022/10/22",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Kairiki Bear",
+  "videoUrl": "https://www.youtube.com/watch?v=BFFvwrb4xrw",
+  "songs": [
+    {
+      "title": "バグ [Bug]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Kairiki Bear",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=FkO8ub83wss",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "gkubheGDwiE",
+  "title": "snooze／天音かなた(cover)",
+  "date": "2022/09/12",
+  "artist": ["Amane Kanata"],
+  "originalartist": "wotaku",
+  "videoUrl": "https://www.youtube.com/watch?v=gkubheGDwiE",
+  "songs": [
+    {
+      "title": "snooze [Snooze]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "wotaku",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=fqBpGiVn2k0",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "mLvEiuz3-Sk",
+  "title": "炉心融解／天音かなた(cover)",
+  "date": "2022/08/24",
+  "artist": ["Amane Kanata"],
+  "originalartist": "iroha(sasaki)",
+  "videoUrl": "https://www.youtube.com/watch?v=mLvEiuz3-Sk",
+  "songs": [
+    {
+      "title": "炉心融解 [Roshin Yūkai]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "iroha(sasaki)",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=4wDgXkOq7og",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "pYdoAOzMXDo",
+  "title": "愛言葉Ⅳ／天音かなた(cover)",
+  "date": "2022/08/07",
+  "artist": ["Amane Kanata"],
+  "originalartist": "DECO*27",
+  "videoUrl": "https://www.youtube.com/watch?v=pYdoAOzMXDo",
+  "songs": [
+    {
+      "title": "愛言葉Ⅳ [Ai Kotoba IV]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "DECO*27",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=aHNWL7MBXoc",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "TJSur7yNKTc",
+  "title": "踊 (Bon-Odo Remix)／天音かなた(cover)",
+  "date": "2022/07/16",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Ado",
+  "videoUrl": "https://www.youtube.com/watch?v=TJSur7yNKTc",
+  "songs": [
+    {
+      "title": "踊 (Bon-Odo Remix) [Odoru]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Ado",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=Cw_tD7MXeEI",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "PyAixTkD4YY",
+  "title": "Drain／天音かなた(cover)",
+  "date": "2022/06/17",
+  "artist": ["Amane Kanata"],
+  "originalartist": "ELECTROCUTICA",
+  "videoUrl": "https://www.youtube.com/watch?v=PyAixTkD4YY",
+  "songs": [
+    {
+      "title": "Drain [Drain]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "ELECTROCUTICA",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=PyAixTkD4YY",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "jXIzziEvXDo",
+  "title": "囁き声で 贖罪／天音かなた(cover)",
+  "date": "2022/06/12",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Kasamura Tota",
+  "videoUrl": "https://www.youtube.com/watch?v=jXIzziEvXDo",
+  "songs": [
+    {
+      "title": "贖罪 [Shokuzai]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Kasamura Tota",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=uoL_7cX0pCQ",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "ruTeLFjV894",
+  "title": "テレキャスタービーボーイ(long ver.)／天音かなた(cover)",
+  "date": "2022/05/17",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Threee",
+  "videoUrl": "https://www.youtube.com/watch?v=ruTeLFjV894",
+  "songs": [
+    {
+      "title": "テレキャスタービーボーイ(long ver.) [Telecaster B-Boy (long ver.)]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Threee",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=i-DZukWFR64",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "3CQJ0gJ5AKE",
+  "title": "フォニイ／天音かなた(cover)",
+  "date": "2022/04/22",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Tsumiki",
+  "videoUrl": "https://www.youtube.com/watch?v=3CQJ0gJ5AKE",
+  "songs": [
+    {
+      "title": "フォニイ [Phony]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Tsumiki",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=9QLT1Aw_45s",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "rmWKzc_Nmvs",
+  "title": "ちょっとあざとい／天音かなた(cover)",
+  "date": "2022/04/09",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Saica",
+  "videoUrl": "https://www.youtube.com/watch?v=rmWKzc_Nmvs",
+  "songs": [
+    {
+      "title": "ちょっとあざとい [Chotto Azatoi]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Saica",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=rmWKzc_Nmvs",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "4N3smY1pKgo",
+  "title": "フラジール／天音かなた(cover)",
+  "date": "2022/02/03",
+  "artist": ["Amane Kanata"],
+  "originalartist": "nulut",
+  "videoUrl": "https://www.youtube.com/watch?v=4N3smY1pKgo",
+  "songs": [
+    {
+      "title": "フラジール [Fragile]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "nulut",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=4N3smY1pKgo",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "ENS50Kwtrgg",
+  "title": "春を告げる Dance shot.ver / 2021 LIVE 天音かなた",
+  "date": "01/03/2022",
+  "artist": ["Amane Kanata"],
+  "originalartist": "yama",
+  "videoUrl": "https://www.youtube.com/watch?v=ENS50Kwtrgg",
+  "songs": [
+    {
+      "title": "春を告げる [Haru wo Tsugeru]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "yama",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=ENS50Kwtrgg",
+      "tags": ["cover", "3D"]
+    }
+  ]
+},
+{
+  "videoId": "_qmAo83zOUg",
+  "title": "私へ　天音かなた(cover)",
+  "date": "12/28/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "supercell",
+  "videoUrl": "https://www.youtube.com/watch?v=_qmAo83zOUg",
+  "songs": [
+    {
+      "title": "私へ [Watashi e]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "supercell",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=_qmAo83zOUg",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "Sv3HckLI7kg",
+  "title": "カムパネルラ／天音かなた×しぐれうい(cover)",
+  "date": "12/22/2021",
+  "artist": ["Amane Kanata", "Shigure Ui"],
+  "originalartist": "Kenshi Yonezu",
+  "videoUrl": "https://www.youtube.com/watch?v=Sv3HckLI7kg",
+  "songs": [
+    {
+      "title": "カムパネルラ [Campanella]",
+      "artist": ["Amane Kanata", "Shigure Ui"],
+      "originalartist": "Kenshi Yonezu",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=Sv3HckLI7kg",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "X8j49duZjwc",
+  "title": "阿修羅ちゃん／天音かなた(cover)",
+  "date": "12/16/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Ado",
+  "videoUrl": "https://www.youtube.com/watch?v=X8j49duZjwc",
+  "songs": [
+    {
+      "title": "阿修羅ちゃん [Ashura-chan]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Ado",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=X8j49duZjwc",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "8AGPo_j7WlA",
+  "title": "UNDERTALE - Once Upon A Time (Acapella) [AmaneKanata]",
+  "date": "9/21/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Toby Fox",
+  "videoUrl": "https://www.youtube.com/watch?v=8AGPo_j7WlA",
+  "songs": [
+    {
+      "title": "UNDERTALE - Once Upon A Time (Acapella)",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Toby Fox",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=8AGPo_j7WlA",
+      "tags": ["MV", "cover"]
+    }
+  ]
+},
+{
+  "videoId": "bS_qxC5_quM",
+  "title": "コールボーイ 彼方くん.ver",
+  "date": "07/29/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "syudou",
+  "videoUrl": "https://www.youtube.com/watch?v=bS_qxC5_quM",
+  "songs": [
+    {
+      "title": "コールボーイ [Kooru Boi]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "syudou",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=bS_qxC5_quM",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "0ziNItsX3iQ",
+  "title": "アディショナルメモリー／天音かなた(cover)",
+  "date": "07/10/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Jin",
+  "videoUrl": "https://youtu.be/0ziNItsX3iQ",
+  "songs": [
+    {
+      "title": "アディショナルメモリー [Additional Memory]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Jin",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/0ziNItsX3iQ",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "nK4v-Xjx7mM",
+  "title": "SORAN BUSHI Remix.ver AMANE KANATA",
+  "date": "07/05/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Kanzaki Hiro",
+  "videoUrl": "https://youtu.be/nK4v-Xjx7mM",
+  "songs": [
+    {
+      "title": "SORAN BUSHI Remix.ver",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Kanzaki Hiro",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/nK4v-Xjx7mM",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "5L8eoqaZ6WU",
+  "title": "終わりへ向かう始まりの歌 / 天音かなた(cover)",
+  "date": "07/01/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "supercell",
+  "videoUrl": "https://youtu.be/5L8eoqaZ6WU",
+  "songs": [
+    {
+      "title": "終わりへ向かう始まりの歌 [Owari e mukau hajimari no uta]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "supercell",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/5L8eoqaZ6WU",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "USrIMGRBA78",
+  "title": "ヒバナ／天音かなた(Cover)",
+  "date": "04/22/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "DECO*27",
+  "videoUrl": "https://youtu.be/USrIMGRBA78",
+  "songs": [
+    {
+      "title": "ヒバナ [Hibana]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "DECO*27",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/USrIMGRBA78",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "_kT4a8IzM70",
+  "title": "【MV】秒針を噛む／天音かなた(Cover)",
+  "date": "02/25/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "ZUTOMAYO",
+  "videoUrl": "https://youtu.be/_kT4a8IzM70",
+  "songs": [
+    {
+      "title": "秒針を噛む [Byōshin o kamu]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "ZUTOMAYO",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/_kT4a8IzM70",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "8HylJNyMuzU",
+  "title": "アウトサイダー／天音かなた(Cover)",
+  "date": "01/02/2021",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Eve",
+  "videoUrl": "https://youtu.be/8HylJNyMuzU",
+  "songs": [
+    {
+      "title": "アウトサイダー [Outsider]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Eve",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/8HylJNyMuzU",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "dPJ4VLowoMA",
+  "title": "劣等上等/天音かなた(VARK LIVE version）",
+  "date": "12/28/2020",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Giga",
+  "videoUrl": "https://youtu.be/dPJ4VLowoMA",
+  "songs": [
+    {
+      "title": "劣等上等 [Rettou Joutou]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Giga",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/dPJ4VLowoMA",
+      "tags": ["cover", "3D"]
+    }
+  ]
+},
+{
+  "videoId": "-BI2YFYWnjc",
+  "title": "【1人2役】獣ゆく細道／天音かなた(Cover)",
+  "date": "06/07/2020",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Shiina Ringo",
+  "videoUrl": "https://youtu.be/-BI2YFYWnjc",
+  "songs": [
+    {
+      "title": "獣ゆく細道 [Kemono Yuku Hosomichi]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Shiina Ringo",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/-BI2YFYWnjc",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "tGXZNHNhI0I",
+  "title": "馬と鹿 - 米津玄師／天音かなた(Cover)",
+  "date": "04/18/2020",
+  "artist": ["Amane Kanata"],
+  "originalartist": "Kenshi Yonezu",
+  "videoUrl": "https://youtu.be/tGXZNHNhI0I",
+  "songs": [
+    {
+      "title": "馬と鹿 [Uma to Shika]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "Kenshi Yonezu",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/tGXZNHNhI0I",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
+{
+  "videoId": "FzwYKoKN_KE",
+  "title": "ゴーストルール／天音かなた(Cover)",
+  "date": "01/18/2020",
+  "artist": ["Amane Kanata"],
+  "originalartist": "DECO*27",
+  "videoUrl": "https://youtu.be/FzwYKoKN_KE",
+  "songs": [
+    {
+      "title": "ゴーストルール [Ghost Rule]",
+      "artist": ["Amane Kanata"],
+      "originalartist": "DECO*27",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/FzwYKoKN_KE",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
 
     {
     "videoId": "qG1HQ9-QlPI",
@@ -1214,7 +1880,420 @@
     }
   ]
 },
-
+{
+  "videoId": "QBmgwTnLDao",
+  "title": "【3DLIVE】神っぽいな / 天音かなた×湊あくあ【ホロライブ】",
+  "date": "2022/11/14",
+  "artist": ["Amane Kanata", "Minato Aqua"],
+  "originalartist": "PinocchioP",
+  "videoUrl": "https://www.youtube.com/watch?v=QBmgwTnLDao",
+  "songs": [
+    {
+      "title": "神っぽいな [Kamippoi na]",
+      "artist": ["Amane Kanata", "Minato Aqua"],
+      "originalartist": "PinocchioP",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=FEpM8FfU1L0",
+      "tags": ["collab", "cover", "3D"]
+    }
+  ]
+},
+{
+  "videoId": "9yrHV4Bea5Y",
+  "title": "ロウワー／天音かなた×ラプラス・ダークネス(cover)",
+  "date": "2023/10/07",
+  "artist": ["Amane Kanata", "Laplus Darkness"],
+  "originalartist": "nulut",
+  "videoUrl": "https://www.youtube.com/watch?v=9yrHV4Bea5Y",
+  "songs": [
+    {
+      "title": "ロウワー [Lower]",
+      "artist": ["Amane Kanata", "Laplus Darkness"],
+      "originalartist": "nulut",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=3sEptl-psU0",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{
+  "videoId": "eCyIz4GUvs0",
+  "title": "【プロセカ】トンデモワンダーズ　VTuberが歌って踊ってみた【ホロライブ】",
+  "date": "2023/05/15",
+  "artist": ["Amane Kanata", "Momosuzu Nene", "Aki Rosenthal", "Yozora Mel", "Oozora Subaru"],
+  "originalartist": "sasakure.UK",
+  "videoUrl": "https://www.youtube.com/watch?v=eCyIz4GUvs0",
+  "songs": [
+    {
+      "title": "トンデモワンダーズ [Tondemo Wonders]",
+      "artist": ["Amane Kanata", "Momosuzu Nene", "Aki Rosenthal", "Yozora Mel", "Oozora Subaru"],
+      "originalartist": "sasakure.UK",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=eCyIz4GUvs0",
+      "tags": ["cover", "3D", "collab"]
+    }
+  ]
+},
+{
+  "videoId": "kK8ajwVjBEI",
+  "title": "至上主義アドトラック／天音かなた＆桃鈴ねね",
+  "date": "11/12/2021",
+  "artist": ["Amane Kanata", "Momosuzu Nene"],
+  "originalartist": "Hololive IDOL Project",
+  "videoUrl": "https://www.youtube.com/watch?v=kK8ajwVjBEI",
+  "songs": [
+    {
+      "title": "阿修羅ちゃん [Ashura-chan]",
+      "artist": ["Amane Kanata", "Momosuzu Nene"],
+      "originalartist": "Hololive IDOL Project",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=kK8ajwVjBEI",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{
+  "videoId": "23nEnPOXLEk",
+  "title": "[MV] Amane Kanata, Tokoyami Towa - Madoromi [Deep Insanity ASYLUM theme song]",
+  "date": "10/13/2021",
+  "artist": ["Amane Kanata", "Tokoyami Towa"],
+  "originalartist": "Taketeru Sunamori (Mirai Kodai Orchestra)",
+  "videoUrl": "https://www.youtube.com/watch?v=23nEnPOXLEk",
+  "songs": [
+    {
+      "title": "ORIO - Madoromi [Deep Insanity ASYLUM theme song]",
+      "artist": ["Amane Kanata", "Tokoyami Towa"],
+      "originalartist": "Taketeru Sunamori (Mirai Kodai Orchestra)",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=23nEnPOXLEk",
+      "tags": ["original", "MV", "collab", "ORIO"]
+    }
+  ]
+},
+{  
+  "videoId": "sxMUJSK5u4g",
+  "title": "コールボーイ／猫又おかゆ＆天音かなた(Cover)",
+  "date": "06/28/2021",
+  "artist": ["Amane Kanata", "Nekomata Okayu"],
+  "originalartist": "syudou",
+  "videoUrl": "https://www.youtube.com/watch?v=sxMUJSK5u4g",
+  "songs": [
+    {
+      "title": "コールボーイ [Kooru Boi]",
+      "artist": ["Amane Kanata", "Nekomata Okayu"],
+      "originalartist": "syudou",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=sxMUJSK5u4g",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "sxMUJSK5u4g",
+  "title": "キセキ結び - ホロライブ4期生",
+  "date": "06/25/2021",
+  "artist": ["Amane Kanata", "Kiryu Coco", "Tsunomaki Watame", "Tokoyami Towa", "Himemori Luna"],
+  "originalartist": "Hololive 4th Gen",
+  "videoUrl": "https://www.youtube.com/watch?v=sxMUJSK5u4g",
+  "songs": [
+    {
+      "title": "キセキ結び [Kiseki Knot]",
+      "artist": ["Amane Kanata", "Kiryu Coco", "Tsunomaki Watame", "Tokoyami Towa", "Himemori Luna"],
+      "originalartist": "Hololive 4th Gen",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=sxMUJSK5u4g",
+      "tags": ["original", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "LiJBEm9v5Nw",
+  "title": "STARDUST SONG",
+  "date": "02/03/2021",
+  "artist": ["Amane Kanata", "Shiranui Flare", "Tokoyami Towa"],
+  "originalartist": "Hololive IDOL Project",
+  "videoUrl": "https://youtu.be/LiJBEm9v5Nw",
+  "songs": [
+    {
+      "title": "STARDUST SONG",
+      "artist": ["Amane Kanata", "Shiranui Flare", "Tokoyami Towa"],
+      "originalartist": "Hololive IDOL Project",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/LiJBEm9v5Nw",
+      "tags": ["original", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "ZYIraB3_-6U",
+  "title": "Dreaming Days",
+  "date": "02/10/2021",
+  "artist": "",
+  "originalartist": "Hololive IDOL Project",
+  "videoUrl": "https://youtu.be/ZYIraB3_-6U",
+  "songs": [
+    {
+      "title": "Dreaming Days",
+      "artist": "",
+      "originalartist": "Hololive IDOL Project",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/ZYIraB3_-6U",
+      "tags": ["original", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "d1SPCBrEYSA",
+  "title": "孤独の宗教 / 猫又おかゆ＆天音かなた (Cover)",
+  "date": "09/30/2021",
+  "artist": ["Amane Kanata", "Nekomata Okayu"],
+  "originalartist": "syudou",
+  "videoUrl": "https://youtu.be/d1SPCBrEYSA",
+  "songs": [
+    {
+      "title": "孤独の宗教 [Kodoku no Shuukyou]",
+      "artist": ["Amane Kanata", "Nekomata Okayu"],
+      "originalartist": "syudou",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/d1SPCBrEYSA",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "S-VngJTUdmE",
+  "title": "うっせぇわ／天音かなた＆常闇トワ(Cover)",
+  "date": "04/15/2021",
+  "artist": ["Amane Kanata", "Nekomata Okayu"],
+  "originalartist": "Ado",
+  "videoUrl": "https://youtu.be/S-VngJTUdmE",
+  "songs": [
+    {
+      "title": "うっせぇわ [Usseewa]",
+      "artist": ["Amane Kanata", "Tokoyami Towa"],
+      "originalartist": "Ado",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/S-VngJTUdmE",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "yk51RdzaMUE",
+  "title": "月陽-ツキアカリ-／星街すいせい＆天音かなた(Cover)",
+  "date": "11/01/2020",
+  "artist": ["Amane Kanata", "Hoshimachi Suisei"],
+  "originalartist": "Mikito-P",
+  "videoUrl": "https://youtu.be/yk51RdzaMUE",
+  "songs": [
+    {
+      "title": "月陽-ツキアカリ- [Tsuki Akari]",
+      "artist": ["Amane Kanata", "Hoshimachi Suisei"],
+      "originalartist": "Mikito-P",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/yk51RdzaMUE",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "YcfZziSg0cg",
+  "title": "三つ葉の結びめ／AZKi & 天音かなた(Cover)",
+  "date": "09/19/2020",
+  "artist": ["Amane Kanata", "AZKi"],
+  "originalartist": "Yanaginagi",
+  "videoUrl": "https://youtu.be/YcfZziSg0cg",
+  "songs": [
+    {
+      "title": "三つ葉の結びめ [Mitsuba no Musubime]",
+      "artist": ["Amane Kanata", "AZKi"],
+      "originalartist": "Yanaginagi",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/YcfZziSg0cg",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "Ur0K2WA67jw",
+  "title": "【5人で】Alice in N.Y.【歌ってみた/ホロALICE】",
+  "date": "07/07/2020",
+  "artist": ["Amane Kanata", "Tokino Sora", "Shiranui Flare", "Hoshimachi Suisei", "Houshou Marine"],
+  "originalartist": "Hitoshizuku_Yamasankakkei",
+  "videoUrl": "https://youtu.be/Ur0K2WA67jw",
+  "songs": [
+    {
+      "title": "三つ葉の結びめ [Mitsuba no Musubime]",
+      "artist": ["Amane Kanata", "Tokino Sora", "Shiranui Flare", "Hoshimachi Suisei", "Houshou Marine"],
+      "originalartist": "Hitoshizuku_Yamasankakkei",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/Ur0K2WA67jw",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "TyILqS4nF3M",
+  "title": "chocolate box／角巻わため×天音かなた(Cover)",
+  "date": "09/05/2020",
+  "artist": ["Amane Kanata", "Tsunomaki Watame"],
+  "originalartist": "dezzy",
+  "videoUrl": "https://youtu.be/TyILqS4nF3M",
+  "songs": [
+    {
+      "title": "Chocolate Box",
+      "artist": ["Amane Kanata", "Tsunomaki Watame"],
+      "originalartist": "dezzy",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/TyILqS4nF3M",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "E6LWLQjgynE",
+  "title": "神っぽいな / 湊あくあ/天音かなた Cover【ホロライブ】",
+  "date": "02/09/2022",
+  "artist": ["Amane Kanata", "Minato Aqua"],
+  "originalartist": "PinocchioP",
+  "videoUrl": "https://youtu.be/E6LWLQjgynE",
+  "songs": [
+    {
+      "title": "神っぽいな [Kamippoi na]",
+      "artist": ["Amane Kanata", "Minato Aqua"],
+      "originalartist": "PinocchioP",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/E6LWLQjgynE",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "5ArDbvfds9k",
+  "title": "[MV] ORIO - Over Time [Amane Kanata, Tokoyami Towa]",
+  "date": "05/10/2022",
+  "artist": ["Amane Kanata", "Tokoyami Towa"],
+  "originalartist": "Kazuki Sato",
+  "videoUrl": "https://youtu.be/5ArDbvfds9k",
+  "songs": [
+    {
+      "title": "ORIO - Over Time",
+      "artist": ["Amane Kanata", "Tokoyami Towa"],
+      "originalartist": "Kazuki Sato",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/5ArDbvfds9k",
+      "tags": ["original", "3D", "collab", "ORIO"]
+    }
+  ]
+},
+{  
+  "videoId": "TcwMO-QU3ak",
+  "title": "Like a Phoenix",
+  "date": "07/29/2022",
+  "artist": ["Amane Kanata", "Tokoyami Towa"],
+  "originalartist": "Kazuki Sato",
+  "videoUrl": "https://www.youtube.com/watch?v=TcwMO-QU3ak",
+  "songs": [
+    {
+      "title": "ORIO - Like a Phoenix",
+      "artist": ["Amane Kanata", "Tokoyami Towa"],
+      "originalartist": "Kazuki Sato",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=TcwMO-QU3ak",
+      "tags": ["original", "collab", "ORIO"]
+    }
+  ]
+},
+{  
+  "videoId": "9uyK-EMEDgA",
+  "title": "Pray",
+  "date": "07/29/2022",
+  "artist": ["Amane Kanata", "Tokoyami Towa"],
+  "originalartist": "t+pazolite",
+  "videoUrl": "https://www.youtube.com/watch?v=9uyK-EMEDgA",
+  "songs": [
+    {
+      "title": "ORIO - Pray",
+      "artist": ["Amane Kanata", "Tokoyami Towa"],
+      "originalartist": "t+pazolite",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=9uyK-EMEDgA",
+      "tags": ["original", "collab", "ORIO"]
+    }
+  ]
+},
+{  
+  "videoId": "gDfd2ICWezg",
+  "title": "【MV】*Luna - ピース！！【DAY2 - VTuber Fes Japan 2022】 公式テーマソング",
+  "date": "02/09/2022",
+  "artist": "",
+  "originalartist": "Niconico",
+  "videoUrl": "https://youtu.be/gDfd2ICWezg",
+  "songs": [
+    {
+      "title": "【MV】*Luna - ピース！！【DAY2 - VTuber Fes Japan 2022】 公式テーマソング",
+      "artist": "",
+      "originalartist": "Niconico",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/gDfd2ICWezg",
+      "tags": ["original", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "6Wbto57VKWk",
+  "title": "うまぴょい伝説 /Cover ホロライブ",
+  "date": "10/03/2021",
+  "artist": ["Amane Kanata", "Minato Aqua", "Houshou Marine", "Ookami Mio", "Shirakami Fubuki", "Uruha Rushia"],
+  "originalartist": "Uma Musume: Pretty Derby",
+  "videoUrl": "https://youtu.be/6Wbto57VKWk",
+  "songs": [
+    {
+      "title": "うまぴょい伝説 [Umapyoi Densetsu]",
+      "artist": ["Amane Kanata", "Tsunomaki Watame"],
+      "originalartist": "Uma Musume: Pretty Derby",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/6Wbto57VKWk",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "fOr-o8OORy0",
+  "title": "飛んでK！ホロライブサマー",
+  "date": "08/18/2022",
+  "artist": "",
+  "originalartist": "Hololive IDOL Project",
+  "videoUrl": "https://youtu.be/fOr-o8OORy0",
+  "songs": [
+    {
+      "title": "飛んでK！ホロライブサマー [Tonde K! hololive summer]",
+      "artist": "",
+      "originalartist": "Hololive IDOL Project",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/fOr-o8OORy0",
+      "tags": ["original", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "R8eEQ_eOiXI",
+  "title": "III Justen x Sena Remix.ver / LYRA (Kanata × Nico × Calliope × Risu × Elizabeth)",
+  "date": "12/23/2025",
+  "artist": ["Amane Kanata", "Ayunda Risu", "Koganei Niko", "Mori Calliope", "Elizabeth Rose Bloodflame"],
+  "originalartist": ["Justen", "Sena"],
+  "videoUrl": "https://www.youtube.com/watch?v=R8eEQ_eOiXI",
+  "songs": [
+    {
+      "title": "III Justen x Sena Remix.ver / LYRA",
+      "artist": ["Amane Kanata", "Ayunda Risu", "Koganei Niko", "Mori Calliope", "Elizabeth Rose Bloodflame"],
+      "originalartist": ["Justen", "Sena"],
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=R8eEQ_eOiXI",
+      "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
 
 
   {

@@ -113,18 +113,20 @@ export default function PlayerDescription({
             {/* VOCAL */}
             <div className="label">Vocal</div>
             <div className="value">
-              {Array.isArray(artist) ? (
-                artist.map((name, i) => (
-                  <span key={i}>
-                    <span className={`pill ${getArtistClass(name)}`}>{name}</span>
-                    {i < artist.length - 1 && (
-                      <span className="collabSymbol"> × </span>
-                    )}
-                  </span>
-                ))
-              ) : (
-                <span className="pill">{artist}</span>
-              )}
+              <div className="pillGroup">
+                {Array.isArray(artist) ? (
+                  artist.map((name, i) => (
+                    <span key={i}>
+                      <span className={`pill ${getArtistClass(name)}`}>{name}</span>
+                      {i < artist.length - 1 && (
+                        <span className="collabSymbol">×</span>
+                      )}
+                    </span>
+                  ))
+                ) : (
+                  <span className={`pill ${getArtistClass(artist)}`}>{artist}</span>
+                )}
+              </div>
             </div>
 
             {/* ORIGINAL ARTIST */}
@@ -520,8 +522,16 @@ export default function PlayerDescription({
         } 
 
         .collabSymbol {
+          margin: 0 2px;
           font-weight: 700;
           opacity: 0.6;
+        }
+
+        .pillGroup {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          gap: 6px 8px; /* vertical horizontal */
         }
 
         .seeMoreBtn {

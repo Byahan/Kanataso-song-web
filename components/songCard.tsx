@@ -5,13 +5,14 @@ import Image from "next/image";
 const ARTIST_COLOR_MAP: Record<string, string> = {
   "minato aqua": "aqua",
   "amane kanata": "kanata",
+  "amane konata": "konata",
   "ayunda risu": "ayunda",
   "azki":"azki",
   "sakamata chloe":"chloe",
   "sorahoshi kirame":"kirame",
   "yukihana lamy": "lamy",
   "nakiri ayame": "ayame",
-  "Hoshimachi Suisei": "suisei",
+  "hoshimachi suisei": "suisei",
   "ookami mio": "mio",
   "omaru polka": "polka",
   "laplus darknesss": "laplus",
@@ -23,6 +24,21 @@ const ARTIST_COLOR_MAP: Record<string, string> = {
   "shishidou akari": "akari",
   "murasaki shion": "shion",
   "sakura miko": "miko",
+  "koganei niko": "niko",
+  "mori calliope": "mori",
+  "elizabeth rose bloodflame": "rose",
+  "momosuzu nene": "nene",
+  "laplus darkness": "laplus",
+  "aki rosenthal": "aki",
+  "yozora mel": "mel",
+  "oozora subaru": "subaru",
+  "uruha rushia": "rushia",
+  "nekomata okayu": "okayu",
+  "tokoyami towa": "towa",
+  "tsunomaki watame": "watame",
+  "kiryu coco": "coco",
+  "shiranui flare": "flare",
+  "tokino sora": "sora"
 };
 
 const TAG_COLOR_MAP: Record<string, { bg: string; color: string }> = {
@@ -278,8 +294,13 @@ export default function SongCard({
           color: #1e3a8a;
         }
 
+        .pill.konata {
+          background: #8c3ce9ff;
+          color: #c7d2fe;
+        }
+
         .pill.ayunda {
-          background: #ffdc6aff;
+          background: #ffb26aff;
           color: #2e3033ff;
         }
 
@@ -366,6 +387,69 @@ export default function SongCard({
         .pill.miko {
           background: #FB7185;
           color: #FFF1F2;
+        }
+
+        .pill.niko {
+          background: #FACC15;
+          color: #78350F;
+        }
+        .pill.mori {
+          background: #EC4899;
+          color: #FFF1F2;
+        }
+        .pill.rose {
+          background: #991B1B;
+          color: #FEE2E2;
+        }
+
+        .pill.nene {
+          background: #e9d415ff;
+          color: #616d56ff;
+        }
+
+        .pill.aki {
+          background: #F472B6;
+          color: #4A044E;
+        }
+
+        .pill.mel {
+          background: #FDE047;
+          color: #713F12;
+        }
+
+        .pill.subaru {
+          background: #38BDF8;
+          color: #082F49;
+        }
+
+        .pill.okayu {
+          background: #A78BFA;
+          color: #2E1065;
+        }
+
+        .pill.towa {
+          background: #6D28D9;
+          color: #F5F3FF;
+        }
+
+        .pill.watame {
+          background: #FEF3C7;
+          color: #92400E;
+        }
+
+        .pill.coco {
+          background: #EA580C;
+          color: #FFF7ED;
+        }
+
+        .pill.flare {
+          background: #F59E0B;
+          color: #451A03;
+        }
+
+        .pill.sora {
+          background: #7DD3FC;
+          color: #0C4A6E;
         }
 
         .collabSymbol {

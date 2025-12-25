@@ -77,7 +77,7 @@ export default function Menubar({ open, onClose }: MenubarProps): JSX.Element {
             </p>
             <p>This website works as long as Kanata does not archive her streams or MVs.</p>
              <div className="divider" />
-            <p className="small">Last Updated: 12/24/2025 00:35 AM JST</p>
+            <p className="small">Last Updated: 12/25/2025 06:33 PM JST</p>
             <p className="small">
               Credits: Byahan / rayhan_f (discord), feel free to contact me if you have any
               further questions/suggestions regarding this website

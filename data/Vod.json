@@ -12,42 +12,42 @@
         "artist": "Shiina Ringo",
         "start": "06:30",
         "originalUrl": "https://www.youtube.com/watch?v=GDnLHd2Ei3Y",
-        "tags": ["cover", "Karaoke"]
+        "tags": ["Karaoke"]
       },
       {
         "title": "桃色片想い [Momoiro Kataomoi]",
         "artist": "Aya Matsuura",
         "start": "11:32",
         "originalUrl": "https://www.youtube.com/watch?v=IIj6RlHtS9w",
-        "tags": ["cover", "Karaoke"]
+        "tags": ["Karaoke"]
       },
       {
         "title": "泡沫サタデーナイト！ [Utakata Saturday Night!]",
         "artist": "Morning Musume ‘16",
         "start": "24:06",
         "originalUrl": "https://www.youtube.com/watch?v=IiV-aaLo9SM",
-        "tags": ["cover", "Karaoke"]
+        "tags": ["Karaoke"]
       },
       {
         "title": "怪獣 [Kaijuu]",
         "artist": "Sakanaction",
         "start": "30:56",
         "originalUrl": "https://www.youtube.com/watch?v=a8dgNdJVluc",
-        "tags": ["cover", "Karaoke"]
+        "tags": ["Karaoke"]
       },
       {
         "title": "天城越え [Amagi Goe]",
         "artist": "Sayuri Ishikawa",
         "start": "37:50",
         "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
-        "tags": ["cover", "Karaoke"]
+        "tags": ["Karaoke"]
       },
       {
         "title": "キラメキライダー☆ [Kirameki Rider]",
         "artist": "hololive IDOL PROJECT",
         "start": "47:13",
         "originalUrl": "https://www.youtube.com/watch?v=vE4L1IWLeag",  
-        "tags": ["cover", "Karaoke"]
+        "tags": ["Karaoke"]
       }
     ]
   },
@@ -64,65 +64,65 @@
         "title": "ミュージックアワー [Music Hour]",
         "artist": "Porno Graffti",
         "start": "09:12",
-        "originalUrl": "https://www.youtube.com/watch?v=GDnLHd2Ei3Y",
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=8ClfuCqHgvs",
+        "tags": ["Karaoke"]
       },
       {
         "title": "女々しくて [Memeshikute]",
         "artist": "Golden Bomber",
         "start": "16:13",
-        "originalUrl": "https://www.youtube.com/watch?v=IIj6RlHtS9w",
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=BC9P3DSZu0A",
+        "tags": ["Karaoke"]
       },
       {
         "title": "君の知らない物語 [Kimi no Shiranai Monogatari]",
         "artist": "Supercell",
         "start": "24:28",
-        "originalUrl": "https://www.youtube.com/watch?v=IiV-aaLo9SM",
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=jpV5jeFlt_E",
+        "tags": ["Karaoke"]
       },
       {
         "title": "イジワルしないで 抱きしめてよ [Ijiwarushinai de Dakishimete yo]",
         "artist": "Juice=Juice",
         "start": "35:03",
-        "originalUrl": "https://www.youtube.com/watch?v=a8dgNdJVluc",
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=wCNV_wAx82Y",
+        "tags": ["Karaoke"]
       },
       {
         "title": "花火 [Hanabi]",
         "artist": "Aiko",
         "start": "41:09",
-        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=iqGHxcTPRfI",
+        "tags": ["Karaoke"]
       },
       {
         "title": "エンゼルフィッシュ [Angelfish]",
         "artist": "Patirchev",
         "start": "49:00",
-        "originalUrl": "https://www.youtube.com/watch?v=vE4L1IWLeag",  
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=TIzLweV75LU",  
+        "tags": ["Karaoke"]
       },
 
       {
         "title": "踊 [Odo]",
         "artist": "Ado",
         "start": "56:45",
-        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=YnSW8ian29w",
+        "tags": ["Karaoke"]
       },
       {
         "title": "ロマンスの途中 [Romance no Tochū]",
         "artist": "Juice=Juice",
         "start": "62:50",
-        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=rh8eeteWbHc",
+        "tags": ["Karaoke"]
       },
       {
         "title": "少女レイ [Shojo Rei]",
         "artist": "MikitoP",
         "start": "72:05",
-        "originalUrl": "https://www.youtube.com/watch?v=cwL09UKDqdI",
-        "tags": ["cover", "Karaoke"]
+        "originalUrl": "https://www.youtube.com/watch?v=JW3N-HvU0MA",
+        "tags": ["Karaoke"]
       }
     ] 
   },
@@ -1545,6 +1545,24 @@
     }
   ]
 },
+{
+  "videoId": "dhjTuybQbu0",
+  "title": "「IRIS OUT」のMV撮影したら、お姉ちゃんが歌ってくれた⌒₊˚ ❤︎ / 天音こなた feat.天音かなた",
+  "date": "12/24/2025",
+  "artist": ["Amane Konata", "Amane Kanata"],
+  "originalartist": "Kenshi Yonezu",
+  "videoUrl": "https://www.youtube.com/watch?v=dhjTuybQbu0",
+  "songs": [
+    {
+      "title": "IRIS OUT 天音こなた feat.天音かなた",
+      "artist": ["Amane Konata", "Amane Kanata"],
+      "originalartist": "Kenshi Yonezu",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=dhjTuybQbu0",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
 
     {
     "videoId": "qG1HQ9-QlPI",
@@ -1771,7 +1789,7 @@
     "Shishidou Akari",
     "Himemori Luna"
   ],
-  "originalartist": "Ui Shigure",
+  "originalartist": "Shigure Ui",
   "videoUrl": "https://www.youtube.com/watch?v=shXDiB3CZ60",
   "isLivestream": false,
   "songs": [
@@ -1784,7 +1802,7 @@
         "Shishidou Akari",
         "Himemori Luna"
       ],
-      "originalartist": "Ui Shigure",
+      "originalartist": "Shigure Ui",
       "start": "00:00",
       "originalUrl": "https://www.youtube.com/watch?v=shXDiB3CZ60",
       "tags": ["cover", "collab", "MV"]
@@ -1943,7 +1961,7 @@
   "videoUrl": "https://www.youtube.com/watch?v=kK8ajwVjBEI",
   "songs": [
     {
-      "title": "阿修羅ちゃん [Ashura-chan]",
+      "title": "阿修羅ちゃん [SHIJOSHUGI ADTRUCK]",
       "artist": ["Amane Kanata", "Momosuzu Nene"],
       "originalartist": "Hololive IDOL Project",
       "start": "00:00",
@@ -2291,6 +2309,24 @@
       "start": "00:00",
       "originalUrl": "https://www.youtube.com/watch?v=R8eEQ_eOiXI",
       "tags": ["cover", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "YnZ-60MBz8U",
+  "title": "【maimai でらっくす】CiRCLE CAMPAiGN / サツキ feat.天音かなた【9/18(木)登場！】",
+  "date": "09/08/2025",
+  "artist": "Amane Kanata",
+  "originalartist": "32ki",
+  "videoUrl": "https://www.youtube.com/watch?v=YnZ-60MBz8U",
+  "songs": [
+    {
+      "title": "CIRCLE CAMPAIGN",
+      "artist": "Amane Kanata",
+      "originalartist": "32ki",
+      "start": "00:00",
+      "originalUrl": "https://www.youtube.com/watch?v=YnZ-60MBz8U",
+      "tags": ["original", "MV", "collab", "Maimai"]
     }
   ]
 },

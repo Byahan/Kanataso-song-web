@@ -127,6 +127,45 @@
     ] 
   },
 
+  {
+    "videoId": "4m5bGOoG85Y",
+    "title": "【#ホロクリスマス歌枠リレー 】メリークリスマス🎄✊【天音かなた/ホロライブ】",
+    "date": "12/24/2025",
+    "artist": "Amane Kanata",
+    "videoUrl": "hhttps://www.youtube.com/live/4m5bGOoG85Y",
+    "isLivestream": true,
+    "songs": [
+      {
+        "title": "ハム太郎 とっとこうた [Hamtaro Tottokouta]",
+        "artist": "Hamuchan's",
+        "start": "05:18",
+        "originalUrl": "https://youtu.be/Lg96zmH7D7w",
+        "tags": ["Karaoke"]
+      },
+      {
+        "title": "覚醒 [Kakusei]",
+        "artist": "Superfly",
+        "start": "05:18",
+        "originalUrl": "https://youtu.be/7u052cW1e1Y",
+        "tags": ["Karaoke"]
+      },
+      {
+        "title": "JANE DOE",
+        "artist": ["Kenshi Yonezu", "Hikaru Utada"],
+        "start": "11:05",
+        "originalUrl": "https://youtu.be/sPLqsLsooJY",
+        "tags": ["Karaoke"]
+      },
+      {
+        "title": "OUR BRIGHT PARADE",
+        "artist": "hololive IDOL PROJECT",
+        "start": "15:00",
+        "originalUrl": "https://youtu.be/k0usYxw3pko",
+        "tags": ["Karaoke"]
+      }
+    ]
+  },
+
     {
     "videoId": "DwGqHnBZh3E",
     "title": "わたしのせいだ",
@@ -1563,6 +1602,24 @@
     }
   ]
 },
+{
+  "videoId": "av9hRwPuhpw",
+  "title": "KING / 天音かなた(cover)",
+  "date": "12/27/2025",
+  "artist": "Amane Kanata",
+  "originalartist": "Kanaria",
+  "videoUrl": "https://youtu.be/av9hRwPuhpw",
+  "songs": [
+    {
+      "title": "KING",
+      "artist": "Amane Kanata",
+      "originalartist": "Kanaria",
+      "start": "00:00",
+      "originalUrl": "hhttps://youtu.be/av9hRwPuhpw",
+      "tags": ["cover", "MV"]
+    }
+  ]
+},
 
     {
     "videoId": "qG1HQ9-QlPI",
@@ -2327,6 +2384,60 @@
       "start": "00:00",
       "originalUrl": "https://www.youtube.com/watch?v=YnZ-60MBz8U",
       "tags": ["original", "MV", "collab", "Maimai"]
+    }
+  ]
+},
+{  
+  "videoId": "6XmGrb-MYVw",
+  "title": "BestFriend // covered by 天音かなた、雪花ラミィ",
+  "date": "12/27/2025",
+  "artist": ["Amane Kanata", "Yukihana Lamy"],
+  "originalartist": "Kiroro",
+  "videoUrl": "https://youtu.be/6XmGrb-MYVw",
+  "songs": [
+    {
+      "title": "BestFriend",
+      "artist": ["Amane Kanata", "Yukihana Lamy"],
+      "originalartist": "Kiroro",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/6XmGrb-MYVw",
+      "tags": ["original", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "eRdoPm0YCJs",
+  "title": "再会 (produced by Ayase) / 天音かなた×AZKi(cover)",
+  "date": "12/27/2025",
+  "artist": ["Amane Kanata", "AZKi"],
+  "originalartist": "Ayase",
+  "videoUrl": "https://youtu.be/eRdoPm0YCJs",
+  "songs": [
+    {
+      "title": "再会 [Seikai]",
+      "artist": ["Amane Kanata", "AZKi"],
+      "originalartist": "Ayase",
+      "start": "00:00",
+      "originalUrl": "https://youtu.be/eRdoPm0YCJs",
+      "tags": ["original", "MV", "collab"]
+    }
+  ]
+},
+{  
+  "videoId": "THdwYbaWAeM",
+  "title": "怪獣 - サカナクション / AZKi × 天音かなた (Cover)",
+  "date": "12/26/2025",
+  "artist": ["Amane Kanata", "AZKi"],
+  "originalartist": "sakanaction",
+  "videoUrl": "https://youtu.be/THdwYbaWAeM",
+  "songs": [
+    {
+      "title": "怪獣 [Kaiju]",
+      "artist": ["Amane Kanata", "AZKi"],
+      "originalartist": "sakanaction",
+      "start": "00:00",
+      "originalUrl": "hhttps://youtu.be/THdwYbaWAeM",
+      "tags": ["original", "MV", "collab"]
     }
   ]
 },
